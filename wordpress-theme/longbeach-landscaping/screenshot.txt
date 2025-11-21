@@ -1,0 +1,8 @@
+SCREENSHOT PLACEHOLDER
+
+To add a screenshot:
+1. Create a 1200x900px PNG image showing your theme
+2. Name it "screenshot.png"
+3. Place it in this directory (wp-content/themes/longbeach-landscaping/)
+
+The screenshot will appear in the WordPress admin theme selector.
