@@ -1,0 +1,1919 @@
+{
+  "metadata": {
+    "description": "Texas cities organized by tier for programmatic SEO",
+    "sources": [
+      "U.S. Census Bureau Vintage 2024 Population Estimates",
+      "Texas Comptroller of Public Accounts Regional Economic Data 2024",
+      "Dallas Federal Reserve - At the Heart of Texas",
+      "Texas Demographic Center",
+      "World Population Review",
+      "texas-demographics.com"
+    ],
+    "last_updated": "2026-03-13",
+    "total_cities": 185
+  },
+  "tier_1_major_metros": [
+    {
+      "city": "Houston",
+      "county": "Harris",
+      "population": 2390125,
+      "region": "Gulf Coast",
+      "dominant_industry": "Oil & Gas / Energy",
+      "secondary_industries": ["Healthcare", "Aerospace", "Petrochemicals", "Shipping/Logistics"],
+      "notes": "4th largest US city. Texas Medical Center is world's largest medical complex. Major port city."
+    },
+    {
+      "city": "San Antonio",
+      "county": "Bexar",
+      "population": 1526656,
+      "region": "South Texas",
+      "dominant_industry": "Military/Defense",
+      "secondary_industries": ["Healthcare", "Tourism", "Cybersecurity", "Bioscience"],
+      "notes": "Joint Base San Antonio supports ~80,000 military/civilian. Major tourism (Alamo, River Walk)."
+    },
+    {
+      "city": "Dallas",
+      "county": "Dallas",
+      "population": 1307930,
+      "region": "North Texas",
+      "dominant_industry": "Financial Services",
+      "secondary_industries": ["Technology", "Telecommunications", "Defense/Aerospace", "Business Services"],
+      "notes": "Major financial hub. 17.3% workforce in business services cluster."
+    },
+    {
+      "city": "Austin",
+      "county": "Travis",
+      "population": 993588,
+      "region": "Central Texas",
+      "dominant_industry": "Technology",
+      "secondary_industries": ["Government (State Capital)", "Semiconductor Manufacturing", "Film/Media", "Higher Education"],
+      "notes": "Silicon Hills. Tesla HQ. On track to pass 1M population. Major university town (UT Austin)."
+    },
+    {
+      "city": "Fort Worth",
+      "county": "Tarrant",
+      "population": 1008106,
+      "region": "North Texas",
+      "dominant_industry": "Aerospace/Defense",
+      "secondary_industries": ["Manufacturing", "Logistics", "Ranching/Agriculture"],
+      "notes": "Crossed 1M threshold in 2024. Bell Textron HQ. Lockheed Martin F-35 production."
+    },
+    {
+      "city": "El Paso",
+      "county": "El Paso",
+      "population": 681723,
+      "region": "West Texas",
+      "dominant_industry": "Government/Military",
+      "secondary_industries": ["Cross-Border Trade", "Healthcare", "Logistics", "Education"],
+      "notes": "Fort Bliss supports 40,000+ military/civilians. Major US-Mexico trade corridor."
+    }
+  ],
+  "tier_2_midsize_cities": [
+    {
+      "city": "Corpus Christi",
+      "county": "Nueces",
+      "population": 317317,
+      "region": "Gulf Coast",
+      "dominant_industry": "Oil & Gas / Petrochemicals",
+      "secondary_industries": ["Port/Shipping", "Military (Naval Air Station)", "Tourism"],
+      "notes": "Major deepwater port. Refining and petrochemical corridor."
+    },
+    {
+      "city": "Lubbock",
+      "county": "Lubbock",
+      "population": 272086,
+      "region": "Panhandle / West Texas",
+      "dominant_industry": "Agriculture (Cotton)",
+      "secondary_industries": ["Healthcare", "Higher Education", "Manufacturing"],
+      "notes": "Hub City. World's largest contiguous cotton-growing region. Texas Tech University."
+    },
+    {
+      "city": "Laredo",
+      "county": "Webb",
+      "population": 255949,
+      "region": "South Texas",
+      "dominant_industry": "Transportation & Warehousing",
+      "secondary_industries": ["Cross-Border Trade", "Retail", "Logistics"],
+      "notes": "Largest inland port on US-Mexico border. #1 industry is transportation/warehousing."
+    },
+    {
+      "city": "Amarillo",
+      "county": "Potter",
+      "population": 203729,
+      "region": "Panhandle",
+      "dominant_industry": "Agriculture (Cattle/Meatpacking)",
+      "secondary_industries": ["Nuclear Weapons (Pantex)", "Oil & Gas", "Helium Production", "Healthcare"],
+      "notes": "Processes ~25% of US beef supply. Pantex is only US nuclear weapons assembly facility."
+    },
+    {
+      "city": "Brownsville",
+      "county": "Cameron",
+      "population": 191967,
+      "region": "Rio Grande Valley",
+      "dominant_industry": "Cross-Border Trade",
+      "secondary_industries": ["Manufacturing", "Healthcare", "Space (SpaceX Starbase)"],
+      "notes": "Southernmost city in Texas. SpaceX Starbase nearby. International trade hub."
+    },
+    {
+      "city": "Killeen",
+      "county": "Bell",
+      "population": 160616,
+      "region": "Central Texas",
+      "dominant_industry": "Military (Fort Cavazos/Hood)",
+      "secondary_industries": ["Retail", "Healthcare", "Government"],
+      "notes": "Adjacent to Fort Cavazos (formerly Fort Hood), one of largest US military installations."
+    },
+    {
+      "city": "McAllen",
+      "county": "Hidalgo",
+      "population": 148782,
+      "region": "Rio Grande Valley",
+      "dominant_industry": "Healthcare",
+      "secondary_industries": ["Retail Trade", "Cross-Border Commerce", "Agriculture"],
+      "notes": "Retail hub for South Texas and northern Mexico. 30-40% retail from Mexican shoppers."
+    },
+    {
+      "city": "Midland",
+      "county": "Midland",
+      "population": 143687,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas (Permian Basin)",
+      "secondary_industries": ["Corporate/White-Collar Energy Services", "Finance"],
+      "notes": "Corporate center of Permian Basin oil industry. White-collar energy hub."
+    },
+    {
+      "city": "Waco",
+      "county": "McLennan",
+      "population": 143570,
+      "region": "Central Texas",
+      "dominant_industry": "Higher Education",
+      "secondary_industries": ["Healthcare", "Manufacturing", "Tourism (Magnolia/Silos)"],
+      "notes": "Baylor University. Magnolia Market tourism. Growing manufacturing base."
+    },
+    {
+      "city": "Beaumont",
+      "county": "Jefferson",
+      "population": 115282,
+      "region": "Gulf Coast",
+      "dominant_industry": "Petrochemical Refining",
+      "secondary_industries": ["Manufacturing", "Port/Shipping", "Healthcare"],
+      "notes": "Spindletop birthplace of modern oil industry. ExxonMobil refinery is largest private employer."
+    },
+    {
+      "city": "Abilene",
+      "county": "Taylor",
+      "population": 130501,
+      "region": "West Texas",
+      "dominant_industry": "Military (Dyess AFB)",
+      "secondary_industries": ["Higher Education", "Healthcare", "Agriculture"],
+      "notes": "Dyess Air Force Base. Three private universities. Regional healthcare hub."
+    },
+    {
+      "city": "Odessa",
+      "county": "Ector",
+      "population": 119748,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas (Permian Basin)",
+      "secondary_industries": ["Industrial Manufacturing", "Healthcare", "Education"],
+      "notes": "Blue-collar counterpart to Midland. Industrial/field operations center for Permian Basin."
+    },
+    {
+      "city": "Tyler",
+      "county": "Smith",
+      "population": 107405,
+      "region": "East Texas",
+      "dominant_industry": "Healthcare",
+      "secondary_industries": ["Manufacturing", "Higher Education", "Oil & Gas"],
+      "notes": "Largest city in East Texas. Major regional medical center. Rose Capital of America."
+    }
+  ],
+  "tier_3_small_cities": [
+    {
+      "city": "Conroe",
+      "county": "Montgomery",
+      "population": 114581,
+      "region": "Gulf Coast",
+      "dominant_industry": "Energy Services",
+      "secondary_industries": ["Healthcare", "Retail", "Construction"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Edinburg",
+      "county": "Hidalgo",
+      "population": 108733,
+      "region": "Rio Grande Valley",
+      "dominant_industry": "Government/Education",
+      "secondary_industries": ["Healthcare", "Technology"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Wichita Falls",
+      "county": "Wichita",
+      "population": 102316,
+      "region": "North Texas",
+      "dominant_industry": "Military (Sheppard AFB)",
+      "secondary_industries": ["Manufacturing", "Healthcare", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "San Angelo",
+      "county": "Tom Green",
+      "population": 99262,
+      "region": "West Texas",
+      "dominant_industry": "Military (Goodfellow AFB)",
+      "secondary_industries": ["Agriculture (Ranching)", "Healthcare", "Higher Education"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Temple",
+      "county": "Bell",
+      "population": 93095,
+      "region": "Central Texas",
+      "dominant_industry": "Healthcare",
+      "secondary_industries": ["Manufacturing", "Logistics", "Military Support"],
+      "is_county_seat": false
+    },
+    {
+      "city": "Mission",
+      "county": "Hidalgo",
+      "population": 88574,
+      "region": "Rio Grande Valley",
+      "dominant_industry": "Agriculture (Citrus)",
+      "secondary_industries": ["Retail", "Healthcare"],
+      "is_county_seat": false
+    },
+    {
+      "city": "Bryan",
+      "county": "Brazos",
+      "population": 87000,
+      "region": "Central Texas",
+      "dominant_industry": "Higher Education",
+      "secondary_industries": ["Manufacturing", "Agriculture", "Technology"],
+      "is_county_seat": true
+    },
+    {
+      "city": "College Station",
+      "county": "Brazos",
+      "population": 123000,
+      "region": "Central Texas",
+      "dominant_industry": "Higher Education (Texas A&M)",
+      "secondary_industries": ["Research/Technology", "Healthcare"],
+      "is_county_seat": false
+    },
+    {
+      "city": "Pharr",
+      "county": "Hidalgo",
+      "population": 81142,
+      "region": "Rio Grande Valley",
+      "dominant_industry": "Cross-Border Trade/Logistics",
+      "secondary_industries": ["Manufacturing", "Retail"],
+      "is_county_seat": false
+    },
+    {
+      "city": "Harlingen",
+      "county": "Cameron",
+      "population": 72234,
+      "region": "Rio Grande Valley",
+      "dominant_industry": "Healthcare",
+      "secondary_industries": ["Military (VA Hospital)", "Manufacturing", "Retail"],
+      "is_county_seat": false
+    },
+    {
+      "city": "San Marcos",
+      "county": "Hays",
+      "population": 72000,
+      "region": "Central Texas",
+      "dominant_industry": "Higher Education (Texas State)",
+      "secondary_industries": ["Retail/Outlet Shopping", "Manufacturing", "Tourism"],
+      "is_county_seat": true
+    },
+    {
+      "city": "New Braunfels",
+      "county": "Comal",
+      "population": 98000,
+      "region": "Central Texas",
+      "dominant_industry": "Tourism/Recreation",
+      "secondary_industries": ["Manufacturing", "Retail", "Healthcare"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Longview",
+      "county": "Gregg",
+      "population": 82000,
+      "region": "East Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Manufacturing", "Healthcare", "Logistics"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Texarkana",
+      "county": "Bowie",
+      "population": 37000,
+      "region": "East Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Healthcare", "Logistics", "Retail"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Port Arthur",
+      "county": "Jefferson",
+      "population": 56039,
+      "region": "Gulf Coast",
+      "dominant_industry": "Petrochemical Refining",
+      "secondary_industries": ["Shipping/Port", "Manufacturing"],
+      "is_county_seat": false,
+      "notes": "Motiva Refinery is largest oil refinery in US."
+    },
+    {
+      "city": "Lufkin",
+      "county": "Angelina",
+      "population": 35000,
+      "region": "East Texas",
+      "dominant_industry": "Timber/Forest Products",
+      "secondary_industries": ["Manufacturing", "Healthcare"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Nacogdoches",
+      "county": "Nacogdoches",
+      "population": 33000,
+      "region": "East Texas",
+      "dominant_industry": "Higher Education (SFA)",
+      "secondary_industries": ["Timber", "Healthcare", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Victoria",
+      "county": "Victoria",
+      "population": 67000,
+      "region": "Gulf Coast",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Manufacturing", "Agriculture", "Healthcare"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Huntsville",
+      "county": "Walker",
+      "population": 48552,
+      "region": "East Texas",
+      "dominant_industry": "Government (TDCJ Prison System)",
+      "secondary_industries": ["Higher Education (Sam Houston State)", "Healthcare"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Sherman",
+      "county": "Grayson",
+      "population": 45000,
+      "region": "North Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Semiconductor (Texas Instruments)", "Healthcare", "Education"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Weatherford",
+      "county": "Parker",
+      "population": 38000,
+      "region": "North Texas",
+      "dominant_industry": "Agriculture/Ranching",
+      "secondary_industries": ["Manufacturing", "Retail", "Energy (Barnett Shale)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Galveston",
+      "county": "Galveston",
+      "population": 53000,
+      "region": "Gulf Coast",
+      "dominant_industry": "Tourism",
+      "secondary_industries": ["Healthcare (UTMB)", "Shipping/Port", "Higher Education"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Del Rio",
+      "county": "Val Verde",
+      "population": 34673,
+      "region": "South Texas",
+      "dominant_industry": "Military (Laughlin AFB)",
+      "secondary_industries": ["Cross-Border Trade", "Agriculture", "Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Eagle Pass",
+      "county": "Maverick",
+      "population": 28130,
+      "region": "South Texas",
+      "dominant_industry": "Cross-Border Trade",
+      "secondary_industries": ["Government", "Retail", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Seguin",
+      "county": "Guadalupe",
+      "population": 36013,
+      "region": "Central Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Agriculture", "Healthcare"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Kerrville",
+      "county": "Kerr",
+      "population": 24000,
+      "region": "Hill Country",
+      "dominant_industry": "Healthcare",
+      "secondary_industries": ["Tourism", "Aerospace Manufacturing", "Retirement"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Fredericksburg",
+      "county": "Gillespie",
+      "population": 14000,
+      "region": "Hill Country",
+      "dominant_industry": "Tourism/Wine Industry",
+      "secondary_industries": ["Agriculture (Peaches)", "Retail", "Hospitality"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Uvalde",
+      "county": "Uvalde",
+      "population": 15770,
+      "region": "South Texas",
+      "dominant_industry": "Agriculture (Ranching)",
+      "secondary_industries": ["Government", "Healthcare"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Paris",
+      "county": "Lamar",
+      "population": 25037,
+      "region": "North Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Healthcare", "Agriculture", "Retail"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Marshall",
+      "county": "Harrison",
+      "population": 24263,
+      "region": "East Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Healthcare", "Higher Education (Wiley College, ETBU)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Palestine",
+      "county": "Anderson",
+      "population": 18000,
+      "region": "East Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Healthcare", "Agriculture", "Tourism (Railroad)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Stephenville",
+      "county": "Erath",
+      "population": 22000,
+      "region": "North Texas",
+      "dominant_industry": "Higher Education (Tarleton State)",
+      "secondary_industries": ["Agriculture (Dairy)", "Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Brownwood",
+      "county": "Brown",
+      "population": 19000,
+      "region": "Central Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Agriculture", "Healthcare", "Higher Education (HPU)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Cleburne",
+      "county": "Johnson",
+      "population": 32000,
+      "region": "North Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Agriculture", "Retail"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Corsicana",
+      "county": "Navarro",
+      "population": 24000,
+      "region": "North Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Manufacturing", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Greenville",
+      "county": "Hunt",
+      "population": 28000,
+      "region": "North Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Defense/Aerospace (L3Harris)", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Sulphur Springs",
+      "county": "Hopkins",
+      "population": 15941,
+      "region": "East Texas",
+      "dominant_industry": "Agriculture (Dairy)",
+      "secondary_industries": ["Manufacturing", "Healthcare"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Mount Pleasant",
+      "county": "Titus",
+      "population": 16238,
+      "region": "East Texas",
+      "dominant_industry": "Poultry Processing",
+      "secondary_industries": ["Manufacturing", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Henderson",
+      "county": "Rusk",
+      "population": 13485,
+      "region": "East Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture", "Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Jacksonville",
+      "county": "Cherokee",
+      "population": 14639,
+      "region": "East Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Agriculture (Tomatoes)", "Healthcare"],
+      "is_county_seat": false,
+      "notes": "County seat of Cherokee County is Rusk"
+    },
+    {
+      "city": "Crockett",
+      "county": "Houston",
+      "population": 6387,
+      "region": "East Texas",
+      "dominant_industry": "Timber/Forest Products",
+      "secondary_industries": ["Agriculture", "Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Brenham",
+      "county": "Washington",
+      "population": 19142,
+      "region": "Central Texas",
+      "dominant_industry": "Manufacturing (Blue Bell Creameries)",
+      "secondary_industries": ["Agriculture", "Tourism"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Navasota",
+      "county": "Grimes",
+      "population": 8969,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Manufacturing", "Retail"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Lockhart",
+      "county": "Caldwell",
+      "population": 15318,
+      "region": "Central Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Tourism (BBQ Capital)", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Gonzales",
+      "county": "Gonzales",
+      "population": 7238,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Oil & Gas", "Manufacturing", "Tourism (Come and Take It)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Denton",
+      "county": "Denton",
+      "population": 150000,
+      "region": "North Texas",
+      "dominant_industry": "Higher Education (UNT, TWU)",
+      "secondary_industries": ["Technology", "Natural Gas (Barnett Shale)", "Retail"],
+      "is_county_seat": true
+    },
+    {
+      "city": "McKinney",
+      "county": "Collin",
+      "population": 210000,
+      "region": "North Texas",
+      "dominant_industry": "Technology",
+      "secondary_industries": ["Healthcare", "Corporate HQs", "Retail"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Round Rock",
+      "county": "Williamson",
+      "population": 140000,
+      "region": "Central Texas",
+      "dominant_industry": "Technology (Dell Technologies)",
+      "secondary_industries": ["Manufacturing", "Healthcare", "Retail"],
+      "is_county_seat": false,
+      "notes": "County seat of Williamson County is Georgetown"
+    },
+    {
+      "city": "Georgetown",
+      "county": "Williamson",
+      "population": 85000,
+      "region": "Central Texas",
+      "dominant_industry": "Retirement/Residential",
+      "secondary_industries": ["Healthcare", "Tourism", "Solar Energy"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Belton",
+      "county": "Bell",
+      "population": 26000,
+      "region": "Central Texas",
+      "dominant_industry": "Higher Education (UMHB)",
+      "secondary_industries": ["Government (County Seat)", "Military Support"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Angleton",
+      "county": "Brazoria",
+      "population": 20000,
+      "region": "Gulf Coast",
+      "dominant_industry": "Petrochemicals",
+      "secondary_industries": ["Agriculture", "Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Bay City",
+      "county": "Matagorda",
+      "population": 17500,
+      "region": "Gulf Coast",
+      "dominant_industry": "Nuclear Energy (STP)",
+      "secondary_industries": ["Agriculture (Rice)", "Petrochemicals"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Port Lavaca",
+      "county": "Calhoun",
+      "population": 12500,
+      "region": "Gulf Coast",
+      "dominant_industry": "Petrochemicals",
+      "secondary_industries": ["Fishing/Shrimping", "Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Rockport",
+      "county": "Aransas",
+      "population": 11000,
+      "region": "Gulf Coast",
+      "dominant_industry": "Tourism/Fishing",
+      "secondary_industries": ["Retirement", "Marine Services"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Alice",
+      "county": "Jim Wells",
+      "population": 19000,
+      "region": "South Texas",
+      "dominant_industry": "Oil & Gas (Eagle Ford Shale)",
+      "secondary_industries": ["Agriculture (Ranching)", "Healthcare"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Kingsville",
+      "county": "Kleberg",
+      "population": 25000,
+      "region": "South Texas",
+      "dominant_industry": "Military (NAS Kingsville)",
+      "secondary_industries": ["Higher Education (Texas A&M Kingsville)", "Agriculture (King Ranch)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Beeville",
+      "county": "Bee",
+      "population": 13500,
+      "region": "South Texas",
+      "dominant_industry": "Oil & Gas (Eagle Ford Shale)",
+      "secondary_industries": ["Agriculture", "Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Falfurrias",
+      "county": "Brooks",
+      "population": 4800,
+      "region": "South Texas",
+      "dominant_industry": "Agriculture (Ranching)",
+      "secondary_industries": ["Government", "Oil & Gas"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Rio Grande City",
+      "county": "Starr",
+      "population": 15000,
+      "region": "Rio Grande Valley",
+      "dominant_industry": "Government/Border Services",
+      "secondary_industries": ["Agriculture", "Retail"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Raymondville",
+      "county": "Willacy",
+      "population": 10000,
+      "region": "Rio Grande Valley",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Government", "Detention Services"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Pearsall",
+      "county": "Frio",
+      "population": 7500,
+      "region": "South Texas",
+      "dominant_industry": "Oil & Gas (Eagle Ford Shale)",
+      "secondary_industries": ["Agriculture", "Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Crystal City",
+      "county": "Zavala",
+      "population": 7200,
+      "region": "South Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Government", "Detention Services"],
+      "is_county_seat": true,
+      "notes": "Spinach Capital of the World"
+    },
+    {
+      "city": "Carrizo Springs",
+      "county": "Dimmit",
+      "population": 5700,
+      "region": "South Texas",
+      "dominant_industry": "Oil & Gas (Eagle Ford Shale)",
+      "secondary_industries": ["Agriculture", "Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Hereford",
+      "county": "Deaf Smith",
+      "population": 15000,
+      "region": "Panhandle",
+      "dominant_industry": "Agriculture (Cattle/Feedlots)",
+      "secondary_industries": ["Meatpacking", "Dairy"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Borger",
+      "county": "Hutchinson",
+      "population": 12800,
+      "region": "Panhandle",
+      "dominant_industry": "Petrochemicals",
+      "secondary_industries": ["Oil & Gas", "Manufacturing"],
+      "is_county_seat": false,
+      "notes": "County seat of Hutchinson County is Stinnett"
+    },
+    {
+      "city": "Pampa",
+      "county": "Gray",
+      "population": 17000,
+      "region": "Panhandle",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Carbon Black Manufacturing", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Dumas",
+      "county": "Moore",
+      "population": 15000,
+      "region": "Panhandle",
+      "dominant_industry": "Agriculture (Feedlots/Meatpacking)",
+      "secondary_industries": ["Oil & Gas", "Petrochemicals"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Plainview",
+      "county": "Hale",
+      "population": 20500,
+      "region": "Panhandle",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Healthcare", "Manufacturing (Cargill)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Pecos",
+      "county": "Reeves",
+      "population": 13000,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas (Permian Basin)",
+      "secondary_industries": ["Agriculture (Cantaloupes)", "Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Fort Stockton",
+      "county": "Pecos",
+      "population": 8500,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture", "Tourism (Trans-Pecos)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Alpine",
+      "county": "Brewster",
+      "population": 6500,
+      "region": "West Texas",
+      "dominant_industry": "Higher Education (Sul Ross State)",
+      "secondary_industries": ["Tourism (Big Bend)", "Ranching"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Marfa",
+      "county": "Presidio",
+      "population": 1800,
+      "region": "West Texas",
+      "dominant_industry": "Tourism/Arts",
+      "secondary_industries": ["Ranching", "Film/Media"],
+      "is_county_seat": true,
+      "notes": "Art destination. Chinati Foundation."
+    },
+    {
+      "city": "Monahans",
+      "county": "Ward",
+      "population": 8000,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas (Permian Basin)",
+      "secondary_industries": ["Tourism (Sand Hills State Park)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Andrews",
+      "county": "Andrews",
+      "population": 18000,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas (Permian Basin)",
+      "secondary_industries": ["Agriculture", "Waste Disposal"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Big Spring",
+      "county": "Howard",
+      "population": 28000,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Wind Energy", "Agriculture", "Government (VA Hospital)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Snyder",
+      "county": "Scurry",
+      "population": 11000,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Wind Energy", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Sweetwater",
+      "county": "Nolan",
+      "population": 10500,
+      "region": "West Texas",
+      "dominant_industry": "Wind Energy",
+      "secondary_industries": ["Agriculture", "Manufacturing"],
+      "is_county_seat": true,
+      "notes": "Wind energy capital of Texas. Home of Rattlesnake Roundup."
+    },
+    {
+      "city": "Mineral Wells",
+      "county": "Palo Pinto",
+      "population": 16000,
+      "region": "North Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Tourism", "Healthcare"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Graham",
+      "county": "Young",
+      "population": 8500,
+      "region": "North Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture (Ranching)", "Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Breckenridge",
+      "county": "Stephens",
+      "population": 5400,
+      "region": "North Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture", "Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Gainesville",
+      "county": "Cooke",
+      "population": 16800,
+      "region": "North Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Agriculture", "Retail", "Gaming (WinStar Casino proximity)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Decatur",
+      "county": "Wise",
+      "population": 7500,
+      "region": "North Texas",
+      "dominant_industry": "Natural Gas (Barnett Shale)",
+      "secondary_industries": ["Agriculture (Dairy)", "Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Hillsboro",
+      "county": "Hill",
+      "population": 8500,
+      "region": "Central Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Agriculture", "Retail/Outlet Shopping"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Waxahachie",
+      "county": "Ellis",
+      "population": 42000,
+      "region": "North Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Film/Entertainment", "Agriculture", "Logistics"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Kaufman",
+      "county": "Kaufman",
+      "population": 8000,
+      "region": "North Texas",
+      "dominant_industry": "Government",
+      "secondary_industries": ["Agriculture", "Retail"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Athens",
+      "county": "Henderson",
+      "population": 13000,
+      "region": "East Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Tourism (Freshwater Fishing)", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Canton",
+      "county": "Van Zandt",
+      "population": 4000,
+      "region": "East Texas",
+      "dominant_industry": "Tourism/Retail (First Monday Trade Days)",
+      "secondary_industries": ["Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Mineola",
+      "county": "Wood",
+      "population": 5000,
+      "region": "East Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Tourism", "Retirement"],
+      "is_county_seat": false,
+      "notes": "County seat of Wood County is Quitman"
+    },
+    {
+      "city": "Quitman",
+      "county": "Wood",
+      "population": 2000,
+      "region": "East Texas",
+      "dominant_industry": "Government",
+      "secondary_industries": ["Agriculture", "Tourism (Lake Fork)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Pittsburg",
+      "county": "Camp",
+      "population": 4700,
+      "region": "East Texas",
+      "dominant_industry": "Poultry Processing (Pilgrim's)",
+      "secondary_industries": ["Agriculture", "Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Carthage",
+      "county": "Panola",
+      "population": 6800,
+      "region": "East Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Timber", "Poultry"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Center",
+      "county": "Shelby",
+      "population": 5500,
+      "region": "East Texas",
+      "dominant_industry": "Poultry Processing",
+      "secondary_industries": ["Timber", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Jasper",
+      "county": "Jasper",
+      "population": 7500,
+      "region": "East Texas",
+      "dominant_industry": "Timber/Forest Products",
+      "secondary_industries": ["Tourism (Lake Sam Rayburn)", "Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Livingston",
+      "county": "Polk",
+      "population": 5500,
+      "region": "East Texas",
+      "dominant_industry": "Timber/Forest Products",
+      "secondary_industries": ["Tourism (Lake Livingston)", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Liberty",
+      "county": "Liberty",
+      "population": 9500,
+      "region": "Gulf Coast",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture", "Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Columbus",
+      "county": "Colorado",
+      "population": 3800,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Manufacturing", "Tourism (Historic)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Bellville",
+      "county": "Austin",
+      "population": 4500,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Manufacturing", "Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "La Grange",
+      "county": "Fayette",
+      "population": 4900,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Manufacturing", "Tourism"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Bastrop",
+      "county": "Bastrop",
+      "population": 12000,
+      "region": "Central Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Tourism", "Agriculture", "Technology (Tesla Proximity)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Burnet",
+      "county": "Burnet",
+      "population": 8000,
+      "region": "Hill Country",
+      "dominant_industry": "Tourism/Recreation",
+      "secondary_industries": ["Agriculture", "Retirement"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Marble Falls",
+      "county": "Burnet",
+      "population": 8500,
+      "region": "Hill Country",
+      "dominant_industry": "Tourism/Recreation",
+      "secondary_industries": ["Construction", "Retail"],
+      "is_county_seat": false
+    },
+    {
+      "city": "Llano",
+      "county": "Llano",
+      "population": 3500,
+      "region": "Hill Country",
+      "dominant_industry": "Tourism/Recreation",
+      "secondary_industries": ["Agriculture", "Retirement"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Johnson City",
+      "county": "Blanco",
+      "population": 2000,
+      "region": "Hill Country",
+      "dominant_industry": "Tourism (LBJ Ranch)",
+      "secondary_industries": ["Agriculture", "Wine Industry"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Boerne",
+      "county": "Kendall",
+      "population": 20000,
+      "region": "Hill Country",
+      "dominant_industry": "Tourism/Retail",
+      "secondary_industries": ["Healthcare", "Construction"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Bandera",
+      "county": "Bandera",
+      "population": 1100,
+      "region": "Hill Country",
+      "dominant_industry": "Tourism (Cowboy Capital of the World)",
+      "secondary_industries": ["Agriculture (Ranching)", "Dude Ranches"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Junction",
+      "county": "Kimble",
+      "population": 2500,
+      "region": "Hill Country",
+      "dominant_industry": "Agriculture (Ranching)",
+      "secondary_industries": ["Tourism", "Hunting/Outdoor Recreation"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Mason",
+      "county": "Mason",
+      "population": 2200,
+      "region": "Hill Country",
+      "dominant_industry": "Agriculture (Ranching)",
+      "secondary_industries": ["Tourism", "Hunting"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Brady",
+      "county": "McCulloch",
+      "population": 5300,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture (Ranching)",
+      "secondary_industries": ["Manufacturing", "Wind Energy"],
+      "is_county_seat": true,
+      "notes": "Heart of Texas - geographic center of the state"
+    },
+    {
+      "city": "Lampasas",
+      "county": "Lampasas",
+      "population": 8000,
+      "region": "Central Texas",
+      "dominant_industry": "Military Support (Fort Cavazos)",
+      "secondary_industries": ["Agriculture", "Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Gatesville",
+      "county": "Coryell",
+      "population": 16000,
+      "region": "Central Texas",
+      "dominant_industry": "Government (TDCJ Prisons)",
+      "secondary_industries": ["Military Support", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Copperas Cove",
+      "county": "Coryell",
+      "population": 35000,
+      "region": "Central Texas",
+      "dominant_industry": "Military Support (Fort Cavazos)",
+      "secondary_industries": ["Retail", "Healthcare"],
+      "is_county_seat": false
+    },
+    {
+      "city": "Granbury",
+      "county": "Hood",
+      "population": 12000,
+      "region": "North Texas",
+      "dominant_industry": "Tourism/Recreation",
+      "secondary_industries": ["Nuclear Energy (Comanche Peak)", "Retirement"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Glen Rose",
+      "county": "Somervell",
+      "population": 2800,
+      "region": "North Texas",
+      "dominant_industry": "Nuclear Energy (Comanche Peak)",
+      "secondary_industries": ["Tourism (Fossil Rim, Dinosaur Valley)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Henrietta",
+      "county": "Clay",
+      "population": 3200,
+      "region": "North Texas",
+      "dominant_industry": "Agriculture (Ranching)",
+      "secondary_industries": ["Oil & Gas"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Vernon",
+      "county": "Wilbarger",
+      "population": 10500,
+      "region": "North Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Government (State Hospital)", "Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Childress",
+      "county": "Childress",
+      "population": 6200,
+      "region": "Panhandle",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Wind Energy", "Transportation (I-287 corridor)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Canadian",
+      "county": "Hemphill",
+      "population": 2900,
+      "region": "Panhandle",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture (Ranching)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Perryton",
+      "county": "Ochiltree",
+      "population": 8500,
+      "region": "Panhandle",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture (Wheat/Cattle)", "Wind Energy"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Dalhart",
+      "county": "Dallam",
+      "population": 8500,
+      "region": "Panhandle",
+      "dominant_industry": "Agriculture (Cattle/Feedlots)",
+      "secondary_industries": ["Meatpacking", "Dairy"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Muleshoe",
+      "county": "Bailey",
+      "population": 5000,
+      "region": "Panhandle",
+      "dominant_industry": "Agriculture (Dairy/Cotton)",
+      "secondary_industries": ["Meatpacking"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Levelland",
+      "county": "Hockley",
+      "population": 14000,
+      "region": "Panhandle",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture (Cotton)", "Higher Education (SPC)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Seminole",
+      "county": "Gaines",
+      "population": 8000,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas (Permian Basin)",
+      "secondary_industries": ["Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Lamesa",
+      "county": "Dawson",
+      "population": 9500,
+      "region": "West Texas",
+      "dominant_industry": "Agriculture (Cotton)",
+      "secondary_industries": ["Oil & Gas"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Littlefield",
+      "county": "Lamb",
+      "population": 6000,
+      "region": "Panhandle",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Seymour",
+      "county": "Baylor",
+      "population": 2600,
+      "region": "North Texas",
+      "dominant_industry": "Agriculture (Ranching/Wheat)",
+      "secondary_industries": ["Oil & Gas"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Coleman",
+      "county": "Coleman",
+      "population": 4300,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture (Ranching)",
+      "secondary_industries": ["Oil & Gas", "Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Comanche",
+      "county": "Comanche",
+      "population": 4200,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture (Dairy/Peanuts)",
+      "secondary_industries": ["Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Meridian",
+      "county": "Bosque",
+      "population": 1500,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Tourism (Lake Whitney)", "Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Hondo",
+      "county": "Medina",
+      "population": 9000,
+      "region": "South Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Wind Energy", "Government"],
+      "is_county_seat": false,
+      "notes": "County seat of Medina County"
+    },
+    {
+      "city": "Jourdanton",
+      "county": "Atascosa",
+      "population": 4500,
+      "region": "South Texas",
+      "dominant_industry": "Oil & Gas (Eagle Ford Shale)",
+      "secondary_industries": ["Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Floresville",
+      "county": "Wilson",
+      "population": 8000,
+      "region": "South Texas",
+      "dominant_industry": "Agriculture (Peanuts)",
+      "secondary_industries": ["Oil & Gas (Eagle Ford)", "Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Cuero",
+      "county": "DeWitt",
+      "population": 8000,
+      "region": "South Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Oil & Gas (Eagle Ford)", "Poultry"],
+      "is_county_seat": true,
+      "notes": "Turkey Capital of the World"
+    },
+    {
+      "city": "Yoakum",
+      "county": "Lavaca",
+      "population": 6000,
+      "region": "South Texas",
+      "dominant_industry": "Manufacturing (Leather)",
+      "secondary_industries": ["Agriculture", "Oil & Gas"],
+      "is_county_seat": false,
+      "notes": "County seat of Lavaca County is Hallettsville"
+    },
+    {
+      "city": "Hallettsville",
+      "county": "Lavaca",
+      "population": 2800,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Oil & Gas", "Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Edna",
+      "county": "Jackson",
+      "population": 5800,
+      "region": "Gulf Coast",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture", "Petrochemicals"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Refugio",
+      "county": "Refugio",
+      "population": 2700,
+      "region": "Gulf Coast",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture (Ranching)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Sinton",
+      "county": "San Patricio",
+      "population": 5600,
+      "region": "Gulf Coast",
+      "dominant_industry": "Petrochemicals",
+      "secondary_industries": ["Agriculture", "Steel Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Robstown",
+      "county": "Nueces",
+      "population": 11000,
+      "region": "Gulf Coast",
+      "dominant_industry": "Agriculture (Cotton)",
+      "secondary_industries": ["Oil & Gas"],
+      "is_county_seat": false
+    },
+    {
+      "city": "Zapata",
+      "county": "Zapata",
+      "population": 5000,
+      "region": "South Texas",
+      "dominant_industry": "Oil & Gas (Eagle Ford)",
+      "secondary_industries": ["Tourism (Falcon Lake)", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Hebbronville",
+      "county": "Jim Hogg",
+      "population": 4500,
+      "region": "South Texas",
+      "dominant_industry": "Oil & Gas (Eagle Ford)",
+      "secondary_industries": ["Agriculture (Ranching)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "George West",
+      "county": "Live Oak",
+      "population": 2500,
+      "region": "South Texas",
+      "dominant_industry": "Oil & Gas (Eagle Ford Shale)",
+      "secondary_industries": ["Agriculture (Ranching)"],
+      "is_county_seat": true,
+      "notes": "Storyfest capital"
+    },
+    {
+      "city": "Tilden",
+      "county": "McMullen",
+      "population": 300,
+      "region": "South Texas",
+      "dominant_industry": "Oil & Gas (Eagle Ford Shale)",
+      "secondary_industries": ["Agriculture (Ranching)"],
+      "is_county_seat": true,
+      "notes": "One of least populated county seats in Texas"
+    },
+    {
+      "city": "Orange",
+      "county": "Orange",
+      "population": 19000,
+      "region": "Gulf Coast",
+      "dominant_industry": "Petrochemical Refining",
+      "secondary_industries": ["Shipping", "Manufacturing"],
+      "is_county_seat": true,
+      "notes": "Part of Golden Triangle with Beaumont and Port Arthur"
+    },
+    {
+      "city": "Rusk",
+      "county": "Cherokee",
+      "population": 5500,
+      "region": "East Texas",
+      "dominant_industry": "Government (State Hospital)",
+      "secondary_industries": ["Agriculture", "Tourism (Texas State Railroad)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "San Augustine",
+      "county": "San Augustine",
+      "population": 2000,
+      "region": "East Texas",
+      "dominant_industry": "Timber/Forest Products",
+      "secondary_industries": ["Agriculture", "Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Woodville",
+      "county": "Tyler",
+      "population": 2500,
+      "region": "East Texas",
+      "dominant_industry": "Timber/Forest Products",
+      "secondary_industries": ["Tourism (Big Thicket)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Linden",
+      "county": "Cass",
+      "population": 2200,
+      "region": "East Texas",
+      "dominant_industry": "Timber/Forest Products",
+      "secondary_industries": ["Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Bonham",
+      "county": "Fannin",
+      "population": 10500,
+      "region": "North Texas",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Agriculture", "Government (VA Hospital)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Gilmer",
+      "county": "Upshur",
+      "population": 5200,
+      "region": "East Texas",
+      "dominant_industry": "Agriculture (Sweet Potatoes)",
+      "secondary_industries": ["Manufacturing", "Timber"],
+      "is_county_seat": true,
+      "notes": "Yamboree festival"
+    },
+    {
+      "city": "Lake Jackson",
+      "county": "Brazoria",
+      "population": 27000,
+      "region": "Gulf Coast",
+      "dominant_industry": "Petrochemicals (Dow Chemical/BASF)",
+      "secondary_industries": ["Manufacturing", "Healthcare"],
+      "is_county_seat": false
+    },
+    {
+      "city": "Clute",
+      "county": "Brazoria",
+      "population": 12000,
+      "region": "Gulf Coast",
+      "dominant_industry": "Petrochemicals",
+      "secondary_industries": ["Manufacturing"],
+      "is_county_seat": false
+    },
+    {
+      "city": "Freeport",
+      "county": "Brazoria",
+      "population": 12500,
+      "region": "Gulf Coast",
+      "dominant_industry": "Port/Shipping",
+      "secondary_industries": ["Petrochemicals", "Fishing"],
+      "is_county_seat": false
+    },
+    {
+      "city": "Madisonville",
+      "county": "Madison",
+      "population": 4700,
+      "region": "East Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Government", "Retail (I-45 corridor)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Centerville",
+      "county": "Leon",
+      "population": 900,
+      "region": "East Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Marlin",
+      "county": "Falls",
+      "population": 5500,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Government", "Healthcare"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Cameron",
+      "county": "Milam",
+      "population": 5600,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Mining (Lignite)", "Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Rockdale",
+      "county": "Milam",
+      "population": 5600,
+      "region": "Central Texas",
+      "dominant_industry": "Mining/Energy",
+      "secondary_industries": ["Agriculture", "Manufacturing"],
+      "is_county_seat": false
+    },
+    {
+      "city": "Taylor",
+      "county": "Williamson",
+      "population": 18000,
+      "region": "Central Texas",
+      "dominant_industry": "Manufacturing (Samsung semiconductor plant)",
+      "secondary_industries": ["Agriculture", "Technology"],
+      "is_county_seat": false,
+      "notes": "Samsung $17B semiconductor fab under construction"
+    },
+    {
+      "city": "Giddings",
+      "county": "Lee",
+      "population": 5500,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Oil & Gas", "Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Caldwell",
+      "county": "Burleson",
+      "population": 4500,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Government", "Czech heritage tourism"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Sealy",
+      "county": "Austin",
+      "population": 7000,
+      "region": "Gulf Coast",
+      "dominant_industry": "Manufacturing",
+      "secondary_industries": ["Agriculture", "Logistics (I-10 corridor)"],
+      "is_county_seat": false
+    },
+    {
+      "city": "Hempstead",
+      "county": "Waller",
+      "population": 8000,
+      "region": "Gulf Coast",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Higher Education (Prairie View A&M proximity)", "Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Wharton",
+      "county": "Wharton",
+      "population": 8500,
+      "region": "Gulf Coast",
+      "dominant_industry": "Agriculture",
+      "secondary_industries": ["Oil & Gas", "Healthcare"],
+      "is_county_seat": true
+    },
+    {
+      "city": "El Campo",
+      "county": "Wharton",
+      "population": 12000,
+      "region": "Gulf Coast",
+      "dominant_industry": "Agriculture (Rice)",
+      "secondary_industries": ["Manufacturing", "Oil & Gas"],
+      "is_county_seat": false
+    },
+    {
+      "city": "Anahuac",
+      "county": "Chambers",
+      "population": 2500,
+      "region": "Gulf Coast",
+      "dominant_industry": "Agriculture (Rice)",
+      "secondary_industries": ["Petrochemicals", "Fishing/Wildlife"],
+      "is_county_seat": true,
+      "notes": "Alligator Capital of Texas"
+    },
+    {
+      "city": "Silsbee",
+      "county": "Hardin",
+      "population": 7000,
+      "region": "East Texas",
+      "dominant_industry": "Timber/Forest Products",
+      "secondary_industries": ["Manufacturing"],
+      "is_county_seat": false,
+      "notes": "County seat of Hardin County is Kountze"
+    },
+    {
+      "city": "Kountze",
+      "county": "Hardin",
+      "population": 2200,
+      "region": "East Texas",
+      "dominant_industry": "Timber/Forest Products",
+      "secondary_industries": ["Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Newton",
+      "county": "Newton",
+      "population": 2500,
+      "region": "East Texas",
+      "dominant_industry": "Timber/Forest Products",
+      "secondary_industries": ["Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "San Saba",
+      "county": "San Saba",
+      "population": 3200,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture (Pecans)",
+      "secondary_industries": ["Tourism", "Ranching"],
+      "is_county_seat": true,
+      "notes": "Pecan Capital of the World"
+    },
+    {
+      "city": "Goldthwaite",
+      "county": "Mills",
+      "population": 1900,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture (Ranching/Goats)",
+      "secondary_industries": ["Government", "Hunting"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Hamilton",
+      "county": "Hamilton",
+      "population": 3100,
+      "region": "Central Texas",
+      "dominant_industry": "Agriculture (Dairy)",
+      "secondary_industries": ["Manufacturing", "Retail"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Dublin",
+      "county": "Erath",
+      "population": 3700,
+      "region": "North Texas",
+      "dominant_industry": "Agriculture (Dairy)",
+      "secondary_industries": ["Manufacturing"],
+      "is_county_seat": false
+    },
+    {
+      "city": "Cisco",
+      "county": "Eastland",
+      "population": 3900,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture"],
+      "is_county_seat": false,
+      "notes": "County seat of Eastland County is Eastland"
+    },
+    {
+      "city": "Eastland",
+      "county": "Eastland",
+      "population": 4000,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture", "Manufacturing"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Sonora",
+      "county": "Sutton",
+      "population": 2900,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture (Ranching/Goats)"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Ozona",
+      "county": "Crockett",
+      "population": 3200,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture (Ranching)"],
+      "is_county_seat": true,
+      "notes": "Largest unincorporated county seat in Texas"
+    },
+    {
+      "city": "Kermit",
+      "county": "Winkler",
+      "population": 6500,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas (Permian Basin)",
+      "secondary_industries": ["Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Crane",
+      "county": "Crane",
+      "population": 4000,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas (Permian Basin)",
+      "secondary_industries": ["Government"],
+      "is_county_seat": true
+    },
+    {
+      "city": "McCamey",
+      "county": "Upton",
+      "population": 2500,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Wind Energy"],
+      "is_county_seat": false,
+      "notes": "County seat of Upton County is Rankin"
+    },
+    {
+      "city": "Stanton",
+      "county": "Martin",
+      "population": 3200,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas (Permian Basin)",
+      "secondary_industries": ["Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Colorado City",
+      "county": "Mitchell",
+      "population": 3800,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Wind Energy", "Agriculture"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Post",
+      "county": "Garza",
+      "population": 5600,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas",
+      "secondary_industries": ["Agriculture (Cotton)", "Wind Energy"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Tahoka",
+      "county": "Lynn",
+      "population": 2600,
+      "region": "West Texas",
+      "dominant_industry": "Agriculture (Cotton)",
+      "secondary_industries": ["Oil & Gas"],
+      "is_county_seat": true
+    },
+    {
+      "city": "Denver City",
+      "county": "Yoakum",
+      "population": 5000,
+      "region": "West Texas",
+      "dominant_industry": "Oil & Gas (Permian Basin)",
+      "secondary_industries": ["Agriculture"],
+      "is_county_seat": false,
+      "notes": "County seat of Yoakum County is Plains"
+    }
+  ],
+  "regions_summary": {
+    "North Texas": {
+      "description": "Dallas-Fort Worth metroplex and surrounding areas north to Oklahoma border",
+      "major_industries": ["Financial Services", "Technology", "Aerospace/Defense", "Manufacturing"],
+      "key_cities_in_data": ["Dallas", "Fort Worth", "Denton", "McKinney", "Sherman", "Wichita Falls", "Weatherford", "Paris", "Gainesville", "Greenville", "Corsicana", "Waxahachie", "Cleburne", "Stephenville", "Mineral Wells", "Bonham", "Granbury"]
+    },
+    "Central Texas": {
+      "description": "Austin area, Waco, Temple/Killeen corridor, Bryan/College Station",
+      "major_industries": ["Technology", "Government", "Higher Education", "Military", "Healthcare"],
+      "key_cities_in_data": ["Austin", "Waco", "Killeen", "Temple", "Bryan", "College Station", "San Marcos", "New Braunfels", "Georgetown", "Round Rock", "Belton", "Lockhart", "Bastrop", "Brownwood", "Lampasas", "Gatesville"]
+    },
+    "East Texas": {
+      "description": "Piney Woods region from Tyler/Longview east to Louisiana border and south to Beaumont",
+      "major_industries": ["Timber/Forest Products", "Oil & Gas", "Poultry/Agriculture", "Healthcare"],
+      "key_cities_in_data": ["Tyler", "Longview", "Texarkana", "Nacogdoches", "Lufkin", "Marshall", "Henderson", "Jacksonville", "Palestine", "Huntsville", "Sulphur Springs", "Mount Pleasant"]
+    },
+    "West Texas": {
+      "description": "Permian Basin, Trans-Pecos, and surrounding areas",
+      "major_industries": ["Oil & Gas", "Wind Energy", "Agriculture (Ranching)", "Military"],
+      "key_cities_in_data": ["El Paso", "Midland", "Odessa", "Abilene", "San Angelo", "Big Spring", "Pecos", "Fort Stockton", "Alpine", "Marfa", "Andrews", "Monahans", "Sweetwater", "Snyder"]
+    },
+    "Gulf Coast": {
+      "description": "Houston area, Beaumont/Port Arthur, and coastal cities south to Corpus Christi",
+      "major_industries": ["Oil & Gas/Petrochemicals", "Shipping/Port", "Healthcare", "Aerospace"],
+      "key_cities_in_data": ["Houston", "Corpus Christi", "Beaumont", "Conroe", "Galveston", "Victoria", "Port Arthur", "Lake Jackson", "Bay City", "Port Lavaca", "Rockport", "Orange", "Angleton", "Freeport"]
+    },
+    "South Texas": {
+      "description": "San Antonio area south and west, border region excluding RGV",
+      "major_industries": ["Military/Defense", "Healthcare", "Cross-Border Trade", "Oil & Gas (Eagle Ford)"],
+      "key_cities_in_data": ["San Antonio", "Laredo", "Del Rio", "Eagle Pass", "Uvalde", "Alice", "Kingsville", "Beeville", "Pearsall", "Crystal City", "Carrizo Springs"]
+    },
+    "Rio Grande Valley": {
+      "description": "Southernmost tip of Texas along the Rio Grande, Cameron/Hidalgo/Starr/Willacy counties",
+      "major_industries": ["Healthcare", "Cross-Border Trade", "Agriculture (Citrus)", "Retail"],
+      "key_cities_in_data": ["Brownsville", "McAllen", "Edinburg", "Harlingen", "Mission", "Pharr", "Rio Grande City", "Raymondville"]
+    },
+    "Panhandle": {
+      "description": "Northernmost 26 counties of Texas, High Plains",
+      "major_industries": ["Agriculture (Cattle/Cotton)", "Meatpacking", "Oil & Gas", "Nuclear Weapons (Pantex)"],
+      "key_cities_in_data": ["Amarillo", "Lubbock", "Plainview", "Pampa", "Borger", "Dumas", "Hereford", "Dalhart", "Levelland", "Perryton", "Childress", "Muleshoe"]
+    },
+    "Hill Country": {
+      "description": "Edwards Plateau region between San Antonio and Austin extending west",
+      "major_industries": ["Tourism/Wine", "Healthcare", "Agriculture (Ranching)", "Retirement"],
+      "key_cities_in_data": ["Kerrville", "Fredericksburg", "Boerne", "Burnet", "Marble Falls", "Llano", "Johnson City", "Bandera", "Junction", "Mason"]
+    }
+  }
+}
