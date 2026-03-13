@@ -1,0 +1,30 @@
+{
+  "webhook_url": "https://your-affiliate-program.com/api/leads",
+  "auth_token": "YOUR_API_TOKEN_HERE",
+  "method": "POST",
+  "content_type": "application/json",
+  "retry": {
+    "max_attempts": 3,
+    "backoff_seconds": [2, 4, 8]
+  },
+  "field_mapping": {
+    "full_name": "contact_name",
+    "business_name": "company_name",
+    "city": "city",
+    "equipment_type": "equipment_category",
+    "financing_amount": "requested_amount",
+    "phone": "phone_number",
+    "email": "email_address",
+    "source_page": "referral_source",
+    "lead_value_tier": "lead_quality",
+    "affiliate_category": "product_category",
+    "timestamp": "submitted_at"
+  },
+  "static_fields": {
+    "state": "TX",
+    "country": "US",
+    "affiliate_id": "YOUR_AFFILIATE_ID",
+    "source_site": "equipmentfinancingtexas.com"
+  },
+  "failure_log": "webhook-failures.log"
+}

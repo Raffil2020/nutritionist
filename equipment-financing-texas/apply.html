@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Apply for Equipment Financing | Equipment Financing Texas</title>
+  <meta name="description" content="Get your equipment financing quote in minutes. Compare rates from top Texas lenders. No obligation, no hard credit pull. Fast approval for small businesses.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://equipmentfinancingtexas.com/apply/">
+  <style>
+    :root {
+      --primary: #1B5E20;
+      --primary-dark: #0D3B12;
+      --accent: #FF6F00;
+      --accent-hover: #E65100;
+      --bg: #F5F7FA;
+      --card-bg: #FFFFFF;
+      --text: #212121;
+      --text-muted: #616161;
+      --border: #E0E0E0;
+      --success: #2E7D32;
+      --shadow: 0 4px 24px rgba(0,0,0,0.08);
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    /* --- Sticky Nav --- */
+    .nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--primary-dark);
+      padding: 12px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    }
+    .nav-logo {
+      color: #FFF;
+      font-size: 18px;
+      font-weight: 700;
+      text-decoration: none;
+    }
+    .nav-logo span { color: var(--accent); }
+    .nav-cta {
+      background: var(--accent);
+      color: #FFF;
+      padding: 10px 24px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 14px;
+      transition: background 0.2s;
+    }
+    .nav-cta:hover { background: var(--accent-hover); }
+
+    /* --- Hero --- */
+    .hero {
+      background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+      color: #FFF;
+      text-align: center;
+      padding: 60px 24px 40px;
+    }
+    .hero h1 {
+      font-size: 32px;
+      font-weight: 800;
+      max-width: 700px;
+      margin: 0 auto 16px;
+      line-height: 1.2;
+    }
+    .hero p {
+      font-size: 18px;
+      opacity: 0.9;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    /* --- Form Card --- */
+    .form-section {
+      max-width: 640px;
+      margin: -30px auto 40px;
+      padding: 0 16px;
+    }
+    .form-card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      box-shadow: var(--shadow);
+      padding: 40px 36px;
+    }
+    .form-card h2 {
+      font-size: 22px;
+      margin-bottom: 24px;
+      text-align: center;
+      color: var(--primary-dark);
+    }
+
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+    .form-row.full { grid-template-columns: 1fr; }
+
+    .form-group { display: flex; flex-direction: column; }
+    .form-group label {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-muted);
+      margin-bottom: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .form-group input,
+    .form-group select {
+      padding: 12px 14px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 15px;
+      color: var(--text);
+      background: #FAFAFA;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .form-group input:focus,
+    .form-group select:focus {
+      outline: none;
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(27, 94, 32, 0.12);
+    }
+    .form-group input::placeholder { color: #BDBDBD; }
+
+    .submit-btn {
+      display: block;
+      width: 100%;
+      padding: 16px;
+      background: var(--accent);
+      color: #FFF;
+      border: none;
+      border-radius: 8px;
+      font-size: 18px;
+      font-weight: 700;
+      cursor: pointer;
+      margin-top: 24px;
+      transition: background 0.2s, transform 0.1s;
+    }
+    .submit-btn:hover {
+      background: var(--accent-hover);
+      transform: translateY(-1px);
+    }
+    .submit-btn:active { transform: translateY(0); }
+
+    /* --- Trust Signals --- */
+    .trust-row {
+      display: flex;
+      justify-content: center;
+      gap: 24px;
+      margin-top: 20px;
+      flex-wrap: wrap;
+    }
+    .trust-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+    .trust-icon {
+      width: 18px;
+      height: 18px;
+      fill: var(--success);
+    }
+
+    /* --- Footer --- */
+    .footer {
+      text-align: center;
+      padding: 32px 24px;
+      color: var(--text-muted);
+      font-size: 13px;
+      border-top: 1px solid var(--border);
+      margin-top: 40px;
+    }
+
+    /* --- Responsive --- */
+    @media (max-width: 600px) {
+      .form-row { grid-template-columns: 1fr; }
+      .hero h1 { font-size: 24px; }
+      .form-card { padding: 28px 20px; }
+      .trust-row { flex-direction: column; align-items: center; gap: 12px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Sticky Navigation -->
+  <nav class="nav">
+    <a href="/" class="nav-logo">Equipment Financing <span>Texas</span></a>
+    <a href="#apply-form" class="nav-cta">Get Financing Now</a>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h1>Get Your Equipment Financing Quote — Fast Approval for Texas Small Businesses</h1>
+    <p>Compare rates from top lenders. No obligation. Results in 24 hours.</p>
+  </section>
+
+  <!-- Application Form -->
+  <section class="form-section">
+    <div class="form-card">
+      <h2>Start Your Free Application</h2>
+      <form id="apply-form" action="/api/submit-lead" method="POST">
+        <input type="hidden" name="source_page" value="/apply/">
+        <input type="hidden" name="form_type" value="landing_page">
+
+        <div class="form-row">
+          <div class="form-group">
+            <label for="full_name">Full Name</label>
+            <input type="text" id="full_name" name="full_name" placeholder="John Smith" required>
+          </div>
+          <div class="form-group">
+            <label for="business_name">Business Name</label>
+            <input type="text" id="business_name" name="business_name" placeholder="Smith Construction LLC" required>
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label for="city">City (Texas)</label>
+            <input type="text" id="city" name="city" placeholder="Houston" required list="texas-cities">
+            <datalist id="texas-cities">
+              <option value="Houston">
+              <option value="Dallas">
+              <option value="San Antonio">
+              <option value="Austin">
+              <option value="Fort Worth">
+              <option value="El Paso">
+              <option value="Lubbock">
+              <option value="Amarillo">
+              <option value="Corpus Christi">
+              <option value="Laredo">
+              <option value="McAllen">
+              <option value="Midland">
+              <option value="Odessa">
+              <option value="Waco">
+              <option value="Beaumont">
+              <option value="Tyler">
+              <option value="Abilene">
+              <option value="Killeen">
+              <option value="Brownsville">
+            </datalist>
+          </div>
+          <div class="form-group">
+            <label for="equipment_type">Equipment Type</label>
+            <select id="equipment_type" name="equipment_type" required>
+              <option value="" disabled selected>Select equipment type</option>
+              <option value="Construction">Construction Equipment</option>
+              <option value="Medical">Medical Equipment</option>
+              <option value="Dental">Dental Equipment</option>
+              <option value="Restaurant">Restaurant Equipment</option>
+              <option value="Agricultural">Agricultural Equipment</option>
+              <option value="Trucking">Trucking & Fleet Vehicles</option>
+              <option value="Manufacturing">Manufacturing Equipment</option>
+              <option value="Technology">Technology & IT Equipment</option>
+              <option value="Heavy Equipment">Heavy Equipment</option>
+              <option value="Office">Office Equipment</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label for="financing_amount">Estimated Amount Needed</label>
+            <select id="financing_amount" name="financing_amount" required>
+              <option value="" disabled selected>Select a range</option>
+              <option value="Under $25,000">Under $25,000</option>
+              <option value="$25,000 - $50,000">$25,000 - $50,000</option>
+              <option value="$50,000 - $100,000">$50,000 - $100,000</option>
+              <option value="$100,000 - $250,000">$100,000 - $250,000</option>
+              <option value="$250,000 - $500,000">$250,000 - $500,000</option>
+              <option value="$500,000+">$500,000+</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="(713) 555-0123" required
+                   pattern="[\d\s\(\)\-\+]+" title="Enter a valid phone number">
+          </div>
+        </div>
+
+        <div class="form-row full">
+          <div class="form-group">
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email" placeholder="john@smithconstruction.com" required>
+          </div>
+        </div>
+
+        <button type="submit" class="submit-btn">Get My Free Quote Now</button>
+
+        <div class="trust-row">
+          <div class="trust-item">
+            <svg class="trust-icon" viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
+            256-bit SSL Secured
+          </div>
+          <div class="trust-item">
+            <svg class="trust-icon" viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17z"/></svg>
+            No Hard Credit Pull
+          </div>
+          <div class="trust-item">
+            <svg class="trust-icon" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+            Free, No Obligation Quote
+          </div>
+        </div>
+      </form>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; 2026 Equipment Financing Texas. All rights reserved.</p>
+    <p style="margin-top: 8px;">Connecting Texas businesses with trusted equipment financing lenders since 2024.</p>
+  </footer>
+
+  <!-- Form Submission Handler -->
+  <script>
+    document.getElementById('apply-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      const form = e.target;
+      const formData = new FormData(form);
+      const data = Object.fromEntries(formData.entries());
+
+      // Add timestamp
+      data.timestamp = new Date().toISOString();
+
+      // Add UTM params if present
+      const params = new URLSearchParams(window.location.search);
+      data.utm_source = params.get('utm_source') || '';
+      data.utm_medium = params.get('utm_medium') || '';
+      data.utm_campaign = params.get('utm_campaign') || '';
+
+      // POST to API endpoint
+      fetch('/api/submit-lead', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data),
+      })
+      .then(function(response) {
+        if (response.ok) {
+          window.location.href = '/thank-you/';
+        } else {
+          // Fallback: still redirect on error to avoid losing the lead
+          console.error('Lead submission failed, redirecting anyway');
+          window.location.href = '/thank-you/';
+        }
+      })
+      .catch(function() {
+        // Network error fallback
+        window.location.href = '/thank-you/';
+      });
+    });
+  </script>
+
+</body>
+</html>

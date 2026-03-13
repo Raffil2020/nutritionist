@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thank You — Your Equipment Financing Request Was Received</title>
+  <meta name="description" content="Your equipment financing inquiry has been received. A lending specialist will contact you within 24 hours.">
+  <meta name="robots" content="noindex, follow">
+  <link rel="canonical" href="https://equipmentfinancingtexas.com/thank-you/">
+  <style>
+    :root {
+      --primary: #1B5E20;
+      --primary-dark: #0D3B12;
+      --accent: #FF6F00;
+      --accent-hover: #E65100;
+      --bg: #F5F7FA;
+      --card-bg: #FFFFFF;
+      --text: #212121;
+      --text-muted: #616161;
+      --border: #E0E0E0;
+      --success: #2E7D32;
+      --success-bg: #E8F5E9;
+      --shadow: 0 4px 24px rgba(0,0,0,0.08);
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--primary-dark);
+      padding: 12px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    }
+    .nav-logo {
+      color: #FFF;
+      font-size: 18px;
+      font-weight: 700;
+      text-decoration: none;
+    }
+    .nav-logo span { color: var(--accent); }
+
+    /* --- Confirmation Section --- */
+    .confirmation {
+      max-width: 640px;
+      margin: 60px auto 40px;
+      padding: 0 16px;
+    }
+    .confirmation-card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      box-shadow: var(--shadow);
+      padding: 48px 40px;
+      text-align: center;
+    }
+
+    .check-circle {
+      width: 72px;
+      height: 72px;
+      background: var(--success-bg);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 24px;
+    }
+    .check-circle svg {
+      width: 40px;
+      height: 40px;
+      fill: var(--success);
+    }
+
+    .confirmation-card h1 {
+      font-size: 26px;
+      font-weight: 800;
+      color: var(--primary-dark);
+      margin-bottom: 12px;
+      line-height: 1.3;
+    }
+    .confirmation-card .subtitle {
+      font-size: 16px;
+      color: var(--text-muted);
+      margin-bottom: 32px;
+    }
+
+    /* --- What Happens Next --- */
+    .steps {
+      text-align: left;
+      background: var(--success-bg);
+      border-radius: 8px;
+      padding: 24px 28px;
+      margin-bottom: 32px;
+    }
+    .steps h2 {
+      font-size: 18px;
+      color: var(--primary-dark);
+      margin-bottom: 16px;
+    }
+    .step {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+    .step:last-child { margin-bottom: 0; }
+    .step-num {
+      width: 28px;
+      height: 28px;
+      background: var(--primary);
+      color: #FFF;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      font-weight: 700;
+      flex-shrink: 0;
+    }
+    .step-text {
+      font-size: 15px;
+      padding-top: 3px;
+    }
+
+    /* --- Explore CTA --- */
+    .explore {
+      border-top: 1px solid var(--border);
+      padding-top: 28px;
+    }
+    .explore h3 {
+      font-size: 16px;
+      color: var(--text);
+      margin-bottom: 12px;
+    }
+    .explore-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+    }
+    .explore-link {
+      display: inline-block;
+      padding: 10px 20px;
+      background: var(--primary);
+      color: #FFF;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 600;
+      transition: background 0.2s;
+    }
+    .explore-link:hover { background: var(--primary-dark); }
+    .explore-link.secondary {
+      background: transparent;
+      color: var(--primary);
+      border: 1px solid var(--primary);
+    }
+    .explore-link.secondary:hover {
+      background: var(--primary);
+      color: #FFF;
+    }
+
+    /* --- Phone CTA --- */
+    .phone-cta {
+      margin-top: 28px;
+      padding: 20px;
+      background: #FFF8E1;
+      border-radius: 8px;
+      border: 1px solid #FFE082;
+    }
+    .phone-cta p {
+      font-size: 15px;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+    .phone-cta a {
+      font-size: 22px;
+      font-weight: 800;
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .footer {
+      text-align: center;
+      padding: 32px 24px;
+      color: var(--text-muted);
+      font-size: 13px;
+      border-top: 1px solid var(--border);
+      margin-top: 40px;
+    }
+
+    @media (max-width: 600px) {
+      .confirmation-card { padding: 32px 20px; }
+      .confirmation-card h1 { font-size: 22px; }
+      .explore-links { flex-direction: column; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav class="nav">
+    <a href="/" class="nav-logo">Equipment Financing <span>Texas</span></a>
+  </nav>
+
+  <section class="confirmation">
+    <div class="confirmation-card">
+      <div class="check-circle">
+        <svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41L9 16.17z"/></svg>
+      </div>
+
+      <h1>Your Request Was Received — A Financing Specialist Will Contact You Within 24 Hours</h1>
+      <p class="subtitle">Your equipment financing inquiry is now being matched with lenders who serve your area and specialize in your equipment type.</p>
+
+      <div class="steps">
+        <h2>What Happens Next?</h2>
+        <div class="step">
+          <div class="step-num">1</div>
+          <div class="step-text">Your inquiry is reviewed and matched with lenders who specialize in your equipment type and serve your Texas city.</div>
+        </div>
+        <div class="step">
+          <div class="step-num">2</div>
+          <div class="step-text">A financing specialist will contact you within 1 business day with pre-qualification details and rate options.</div>
+        </div>
+        <div class="step">
+          <div class="step-num">3</div>
+          <div class="step-text">Compare offers side-by-side with no obligation. Choose the financing terms that work best for your business.</div>
+        </div>
+      </div>
+
+      <div class="phone-cta">
+        <p>Need faster service? Call our team directly:</p>
+        <a href="tel:+18005551234">1-800-555-1234</a>
+      </div>
+
+      <div class="explore">
+        <h3>While you wait, explore financing options by city:</h3>
+        <div class="explore-links">
+          <a href="/equipment-financing-houston/" class="explore-link">Houston</a>
+          <a href="/equipment-financing-dallas/" class="explore-link">Dallas</a>
+          <a href="/equipment-financing-san-antonio/" class="explore-link">San Antonio</a>
+          <a href="/equipment-financing-austin/" class="explore-link">Austin</a>
+          <a href="/equipment-financing-fort-worth/" class="explore-link secondary">Fort Worth</a>
+          <a href="/equipment-financing-el-paso/" class="explore-link secondary">El Paso</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p>&copy; 2026 Equipment Financing Texas. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>

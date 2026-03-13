@@ -1,0 +1,249 @@
+city,tier,region,pages_count,lead_value_tier,dominant_industry
+Houston,1,Gulf Coast,1,High,Energy & Oil/Gas
+Dallas,1,North Texas,1,High,Technology & Financial Services
+San Antonio,1,Central Texas,1,High,Military & Healthcare
+Austin,1,Central Texas,1,High,Technology & Government
+Fort Worth,1,North Texas,1,High,Aerospace & Manufacturing
+El Paso,1,West Texas,1,High,Manufacturing & Trade
+Lubbock,2,West Texas,1,Medium,Agriculture & Education
+Amarillo,2,Panhandle,1,Medium,Agriculture & Meatpacking
+Waco,2,Central Texas,1,Medium,Manufacturing & Education
+Midland,2,Permian Basin,1,High,Oil & Gas
+Odessa,2,Permian Basin,1,High,Oil & Gas
+Tyler,2,East Texas,1,High,Healthcare & Manufacturing
+Beaumont,2,Gulf Coast,1,High,Petrochemical & Refining
+Abilene,2,West Texas,1,Medium,Military & Education
+McAllen,2,Rio Grande Valley,1,High,Trade & Healthcare
+Laredo,2,South Texas,1,High,International Trade & Logistics
+Corpus Christi,2,Gulf Coast,1,High,Petrochemical & Port Operations
+Killeen,2,Central Texas,1,Medium,Military (Fort Cavazos)
+Brownsville,2,Rio Grande Valley,1,High,Trade & Aerospace (SpaceX)
+Arlington,3,North Texas,1,Low,Entertainment & Manufacturing
+Plano,3,North Texas,1,Low,Technology & Corporate HQs
+Irving,3,North Texas,1,Medium,Corporate Services & Logistics
+Garland,3,North Texas,1,Low,Manufacturing & Retail
+Frisco,3,North Texas,1,Low,Technology & Professional Services
+McKinney,3,North Texas,1,Medium,Technology & Healthcare
+Grand Prairie,3,North Texas,1,Low,Manufacturing & Distribution
+Denton,3,North Texas,1,Low,Education & Technology
+Mesquite,3,North Texas,1,Low,Retail & Distribution
+Carrollton,3,North Texas,1,Low,Manufacturing & Technology
+Round Rock,3,Central Texas,1,Low,Technology (Dell HQ)
+Lewisville,3,North Texas,1,Low,Distribution & Retail
+Richardson,3,North Texas,1,Low,Telecom & Technology
+Sugar Land,3,Gulf Coast,1,Medium,Energy & Professional Services
+The Woodlands,3,Gulf Coast,1,Medium,Energy & Corporate HQs
+League City,3,Gulf Coast,1,Medium,Aerospace & Maritime
+Allen,3,North Texas,1,Low,Technology & Retail
+Pearland,3,Gulf Coast,1,Medium,Energy & Healthcare
+San Marcos,3,Central Texas,1,Low,Education & Manufacturing
+New Braunfels,3,Central Texas,1,Low,Tourism & Manufacturing
+Edinburg,3,Rio Grande Valley,1,Medium,Education & Healthcare
+Mission,3,Rio Grande Valley,1,Medium,Agriculture & Trade
+Pharr,3,Rio Grande Valley,1,Medium,International Trade & Logistics
+Harlingen,3,Rio Grande Valley,1,Medium,Healthcare & Military
+San Angelo,3,West Texas,1,Low,Agriculture & Military
+Longview,3,East Texas,1,Medium,Oil & Gas & Manufacturing
+Texarkana,3,East Texas,1,Medium,Manufacturing & Logistics
+Bryan,3,Central Texas,1,Low,Education & Agriculture
+College Station,3,Central Texas,1,Low,Education (Texas A&M) & Research
+Temple,3,Central Texas,1,Medium,Healthcare & Manufacturing
+Flower Mound,3,North Texas,1,Low,Professional Services
+North Richland Hills,3,North Texas,1,Medium,Healthcare & Retail
+Cedar Park,3,Central Texas,1,Low,Technology & Retail
+Pflugerville,3,Central Texas,1,Low,Technology & Manufacturing
+Georgetown,3,Central Texas,1,Medium,Healthcare & Retirement Services
+Victoria,3,Gulf Coast,1,Medium,Petrochemical & Agriculture
+Conroe,3,Gulf Coast,1,Medium,Energy & Construction
+Mansfield,3,North Texas,1,Low,Manufacturing & Retail
+Rowlett,3,North Texas,1,Low,Professional Services
+Wylie,3,North Texas,1,Low,Retail & Professional Services
+Euless,3,North Texas,1,Medium,Aviation & Logistics
+DeSoto,3,North Texas,1,Medium,Distribution & Healthcare
+Grapevine,3,North Texas,1,Medium,Tourism & Aviation
+Galveston,3,Gulf Coast,1,Medium,Tourism & Maritime
+Cedar Hill,3,North Texas,1,Low,Retail & Professional Services
+Texas City,3,Gulf Coast,1,Medium,Petrochemical & Refining
+Huntsville,3,East Texas,1,Low,Government & Education
+Lufkin,3,Piney Woods,1,Medium,Forestry & Manufacturing
+Nacogdoches,3,Piney Woods,1,Medium,Education & Forestry
+Sherman,3,North Texas,1,Low,Manufacturing & Technology
+Wichita Falls,3,North Texas,1,Low,Military & Manufacturing
+Del Rio,3,West Texas,1,Medium,Military & Trade
+Eagle Pass,3,South Texas,1,Medium,International Trade
+Weslaco,3,Rio Grande Valley,1,Low,Agriculture & Retail
+Hurst,3,North Texas,1,Medium,Retail & Healthcare
+Burleson,3,North Texas,1,Medium,Construction & Retail
+Bedford,3,North Texas,1,Medium,Healthcare & Professional Services
+Cleburne,3,North Texas,1,Low,Manufacturing & Agriculture
+Weatherford,3,North Texas,1,Low,Agriculture & Equine
+Stephenville,3,North Texas,1,Low,Agriculture & Dairy
+Mineral Wells,3,North Texas,1,Low,Manufacturing & Tourism
+Greenville,3,North Texas,1,Low,Manufacturing & Defense
+Paris,3,North Texas,1,Low,Manufacturing & Agriculture
+Corsicana,3,North Texas,1,Medium,Oil & Gas & Manufacturing
+Ennis,3,North Texas,1,Low,Manufacturing & Agriculture
+Waxahachie,3,North Texas,1,Low,Manufacturing & Distribution
+Terrell,3,North Texas,1,Low,Manufacturing & Agriculture
+Rockwall,3,North Texas,1,Low,Professional Services & Retail
+Forney,3,North Texas,1,Medium,Construction & Retail
+Midlothian,3,North Texas,1,Low,Cement Manufacturing
+Denison,3,North Texas,1,Medium,Manufacturing & Healthcare
+Gainesville,3,North Texas,1,Low,Manufacturing & Agriculture
+Bonham,3,North Texas,1,Low,Agriculture & Government
+Mount Pleasant,3,East Texas,1,Low,Poultry Processing & Manufacturing
+Marshall,3,East Texas,1,Low,Manufacturing & Education
+Jacksonville,3,East Texas,1,Low,Manufacturing & Agriculture
+Palestine,3,East Texas,1,Low,Manufacturing & Tourism
+Henderson,3,East Texas,1,Medium,Oil & Gas & Agriculture
+Sulphur Springs,3,East Texas,1,Low,Dairy & Agriculture
+Jasper,3,Piney Woods,1,Medium,Forestry & Timber
+Center,3,Piney Woods,1,Medium,Poultry Processing & Forestry
+Crockett,3,East Texas,1,Medium,Agriculture & Forestry
+Livingston,3,Piney Woods,1,Medium,Timber & Tourism
+Bay City,3,Gulf Coast,1,Medium,Agriculture & Energy
+Port Arthur,3,Gulf Coast,1,Medium,Petrochemical & Refining
+Orange,3,Gulf Coast,1,Medium,Petrochemical & Shipbuilding
+Port Lavaca,3,Gulf Coast,1,Medium,Petrochemical & Fishing
+Freeport,3,Gulf Coast,1,Low,Chemical Manufacturing
+Angleton,3,Gulf Coast,1,Medium,Agriculture & Petrochemical
+Lake Jackson,3,Gulf Coast,1,Low,Chemical Manufacturing (Dow)
+Pasadena,3,Gulf Coast,1,Medium,Petrochemical & Refining
+Baytown,3,Gulf Coast,1,Medium,Petrochemical & Refining
+Missouri City,3,Gulf Coast,1,Low,Professional Services
+Rosenberg,3,Gulf Coast,1,Low,Agriculture & Manufacturing
+Richmond,3,Gulf Coast,1,Low,Agriculture & Government
+Humble,3,Gulf Coast,1,Medium,Oil & Gas & Retail
+Katy,3,Gulf Coast,1,Medium,Energy & Construction
+Tomball,3,Gulf Coast,1,Medium,Oil & Gas Services
+Deer Park,3,Gulf Coast,1,Medium,Petrochemical & Manufacturing
+La Porte,3,Gulf Coast,1,Medium,Petrochemical & Port Operations
+Friendswood,3,Gulf Coast,1,Medium,Aerospace & Professional Services
+Dickinson,3,Gulf Coast,1,Medium,Petrochemical & Healthcare
+Alvin,3,Gulf Coast,1,Medium,Agriculture & Petrochemical
+Seguin,3,Central Texas,1,Low,Manufacturing & Agriculture
+Lockhart,3,Central Texas,1,Low,Manufacturing & Food (BBQ Capital)
+Bastrop,3,Central Texas,1,Low,Tourism & Technology
+Marble Falls,3,Central Texas,1,Medium,Tourism & Construction
+Burnet,3,Central Texas,1,Low,Tourism & Agriculture
+Lampasas,3,Central Texas,1,Low,Military & Agriculture
+Copperas Cove,3,Central Texas,1,Low,Military (Fort Cavazos)
+Gatesville,3,Central Texas,1,Low,Government & Agriculture
+Belton,3,Central Texas,1,Low,Education & Government
+Taylor,3,Central Texas,1,Low,Manufacturing (Samsung Fab)
+Hutto,3,Central Texas,1,Medium,Construction & Retail
+Kyle,3,Central Texas,1,Medium,Retail & Construction
+Buda,3,Central Texas,1,Medium,Construction & Professional Services
+Dripping Springs,3,Central Texas,1,Low,Tourism & Wineries
+Fredericksburg,3,Central Texas,1,Low,Tourism & Wine/Agriculture
+Kerrville,3,Central Texas,1,Medium,Tourism & Healthcare
+Boerne,3,Central Texas,1,Low,Tourism & Professional Services
+Uvalde,3,South Texas,1,Low,Agriculture & Ranching
+Hondo,3,South Texas,1,Low,Agriculture & Military
+Pearsall,3,South Texas,1,Medium,Oil & Gas & Agriculture
+Crystal City,3,South Texas,1,Low,Agriculture (Spinach Capital)
+Carrizo Springs,3,South Texas,1,Medium,Oil & Gas (Eagle Ford Shale)
+Pleasanton,3,South Texas,1,Medium,Oil & Gas & Agriculture
+Floresville,3,South Texas,1,Low,Agriculture & Peanut Farming
+Gonzales,3,Central Texas,1,Medium,Agriculture & Energy
+Cuero,3,Gulf Coast,1,Medium,Oil & Gas & Agriculture
+Yoakum,3,Gulf Coast,1,Low,Leather & Agriculture
+Edna,3,Gulf Coast,1,Medium,Agriculture & Energy
+El Campo,3,Gulf Coast,1,Low,Agriculture & Rice Farming
+Wharton,3,Gulf Coast,1,Medium,Agriculture & Energy
+Columbus,3,Central Texas,1,Low,Agriculture & Tourism
+La Grange,3,Central Texas,1,Low,Agriculture & Manufacturing
+Brenham,3,Central Texas,1,Low,Food Manufacturing (Blue Bell)
+Navasota,3,Central Texas,1,Low,Agriculture & Manufacturing
+Madisonville,3,Central Texas,1,Low,Agriculture & Ranching
+Hearne,3,Central Texas,1,Low,Agriculture & Railroad
+Cameron,3,Central Texas,1,Medium,Agriculture & Mining
+Marlin,3,Central Texas,1,Medium,Agriculture & Healthcare
+Hillsboro,3,Central Texas,1,Low,Manufacturing & Agriculture
+Mexia,3,Central Texas,1,Medium,Oil & Gas & Agriculture
+Groesbeck,3,Central Texas,1,Medium,Agriculture & Energy
+Sweetwater,3,West Texas,1,Medium,Wind Energy & Ranching
+Snyder,3,West Texas,1,Medium,Oil & Gas & Agriculture
+Big Spring,3,West Texas,1,Medium,Oil & Gas & Wind Energy
+Pecos,3,West Texas,1,Medium,Oil & Gas (Permian Basin)
+Monahans,3,West Texas,1,Medium,Oil & Gas
+Fort Stockton,3,West Texas,1,Medium,Oil & Gas & Agriculture
+Alpine,3,West Texas,1,Low,Education & Tourism
+Marfa,3,West Texas,1,Low,Tourism & Arts
+Van Horn,3,West Texas,1,Low,Ranching & Space (Blue Origin)
+Andrews,3,Permian Basin,1,Medium,Oil & Gas
+Seminole,3,Permian Basin,1,Medium,Oil & Gas & Agriculture
+Lamesa,3,West Texas,1,Low,Cotton & Agriculture
+Levelland,3,West Texas,1,Medium,Oil & Gas & Agriculture
+Brownfield,3,West Texas,1,Medium,Agriculture & Oil
+Plainview,3,Panhandle,1,Low,Agriculture & Food Processing
+Hereford,3,Panhandle,1,Low,Cattle & Meatpacking
+Pampa,3,Panhandle,1,Medium,Oil & Gas & Agriculture
+Borger,3,Panhandle,1,Medium,Petrochemical & Refining
+Dumas,3,Panhandle,1,Low,Agriculture & Natural Gas
+Perryton,3,Panhandle,1,Medium,Oil & Gas & Agriculture
+Dalhart,3,Panhandle,1,Low,Cattle Feedlots & Agriculture
+Canyon,3,Panhandle,1,Low,Education & Agriculture
+Childress,3,Panhandle,1,Low,Agriculture & Ranching
+Vernon,3,North Texas,1,Low,Agriculture & Government
+Graham,3,North Texas,1,Medium,Oil & Gas & Agriculture
+Breckenridge,3,West Texas,1,Medium,Oil & Gas & Ranching
+Brownwood,3,Central Texas,1,Low,Manufacturing & Education
+Brady,3,Central Texas,1,Low,Agriculture & Ranching
+Mason,3,Central Texas,1,Low,Ranching & Tourism
+Llano,3,Central Texas,1,Medium,Tourism & Granite Mining
+San Saba,3,Central Texas,1,Low,Pecan Farming & Agriculture
+Goldthwaite,3,Central Texas,1,Low,Agriculture & Ranching
+Comanche,3,Central Texas,1,Low,Dairy & Agriculture
+Dublin,3,Central Texas,1,Low,Dairy & Agriculture
+Alice,3,South Texas,1,Medium,Oil & Gas & Ranching
+Kingsville,3,South Texas,1,Low,Military & Education
+Beeville,3,South Texas,1,Medium,Oil & Gas & Agriculture
+Sinton,3,Gulf Coast,1,Medium,Agriculture & Petrochemical
+Robstown,3,Gulf Coast,1,Low,Agriculture & Cotton
+Portland,3,Gulf Coast,1,Medium,Petrochemical & Manufacturing
+Aransas Pass,3,Gulf Coast,1,Low,Fishing & Tourism
+Rockport,3,Gulf Coast,1,Low,Tourism & Fishing
+Port Isabel,3,Rio Grande Valley,1,Low,Tourism & Fishing
+Los Fresnos,3,Rio Grande Valley,1,Low,Agriculture & Retail
+San Benito,3,Rio Grande Valley,1,Low,Agriculture & Food Processing
+Mercedes,3,Rio Grande Valley,1,Low,Agriculture & Food Processing
+Donna,3,Rio Grande Valley,1,Low,Agriculture & Retail
+La Feria,3,Rio Grande Valley,1,Low,Agriculture & Citrus
+Rio Grande City,3,Rio Grande Valley,1,Medium,Agriculture & Trade
+Roma,3,Rio Grande Valley,1,Medium,International Trade
+Zapata,3,South Texas,1,Medium,Oil & Gas & Tourism
+Hebbronville,3,South Texas,1,Medium,Oil & Gas & Ranching
+Falfurrias,3,South Texas,1,Low,Ranching & Agriculture
+George West,3,South Texas,1,Medium,Oil & Gas & Ranching
+Cotulla,3,South Texas,1,Medium,Oil & Gas (Eagle Ford Shale)
+Refugio,3,Gulf Coast,1,Medium,Agriculture & Oil
+Goliad,3,Gulf Coast,1,Low,Tourism & Agriculture
+Hallettsville,3,Gulf Coast,1,Low,Agriculture & Manufacturing
+Schulenburg,3,Central Texas,1,Low,Agriculture & Manufacturing
+Giddings,3,Central Texas,1,Medium,Oil & Gas & Agriculture
+Smithville,3,Central Texas,1,Low,Tourism & Agriculture
+Elgin,3,Central Texas,1,Low,Manufacturing & Agriculture (Sausage Capital)
+Manor,3,Central Texas,1,Medium,Construction & Technology
+Leander,3,Central Texas,1,Low,Technology & Retail
+Liberty Hill,3,Central Texas,1,Medium,Construction & Agriculture
+Jarrell,3,Central Texas,1,Medium,Construction & Agriculture
+Salado,3,Central Texas,1,Low,Tourism & Retail
+Harker Heights,3,Central Texas,1,Low,Military & Retail
+Granbury,3,North Texas,1,Medium,Tourism & Nuclear Energy
+Glen Rose,3,North Texas,1,Medium,Nuclear Energy & Tourism
+Decatur,3,North Texas,1,Medium,Oil & Gas & Agriculture
+Bridgeport,3,North Texas,1,Medium,Mining & Agriculture
+Bowie,3,North Texas,1,Low,Agriculture & Manufacturing
+Jacksboro,3,North Texas,1,Medium,Oil & Gas & Ranching
+Seymour,3,North Texas,1,Medium,Agriculture & Oil
+Stamford,3,West Texas,1,Low,Agriculture & Ranching
+Haskell,3,West Texas,1,Low,Agriculture & Cotton
+Coleman,3,West Texas,1,Low,Ranching & Agriculture
+Ballinger,3,West Texas,1,Low,Agriculture & Manufacturing
+Sonora,3,West Texas,1,Medium,Ranching & Oil/Gas
+Ozona,3,West Texas,1,Medium,Ranching & Oil/Gas
+Junction,3,Central Texas,1,Low,Ranching & Tourism
+Bandera,3,Central Texas,1,Low,Tourism & Ranching (Cowboy Capital)
+Wimberley,3,Central Texas,1,Low,Tourism & Arts
+Johnson City,3,Central Texas,1,Low,Tourism & Ranching
