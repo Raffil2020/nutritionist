@@ -1,0 +1,2244 @@
+{
+  "metadata": {
+    "total_cities": 248,
+    "tier_1_count": 6,
+    "tier_2_count": 13,
+    "tier_3_count": 229,
+    "last_updated": "2026-03-13",
+    "regions": ["North Texas", "South Texas", "East Texas", "West Texas", "Central Texas", "Gulf Coast", "Panhandle", "Rio Grande Valley", "Permian Basin", "Piney Woods"]
+  },
+  "cities": [
+    {
+      "city_name": "Houston",
+      "slug": "equipment-financing-houston",
+      "tier": 1,
+      "region": "Gulf Coast",
+      "county": "Harris",
+      "estimated_population": 2314000,
+      "dominant_industry": "Energy & Oil/Gas"
+    },
+    {
+      "city_name": "Dallas",
+      "slug": "equipment-financing-dallas",
+      "tier": 1,
+      "region": "North Texas",
+      "county": "Dallas",
+      "estimated_population": 1344000,
+      "dominant_industry": "Technology & Financial Services"
+    },
+    {
+      "city_name": "San Antonio",
+      "slug": "equipment-financing-san-antonio",
+      "tier": 1,
+      "region": "Central Texas",
+      "county": "Bexar",
+      "estimated_population": 1472000,
+      "dominant_industry": "Military & Healthcare"
+    },
+    {
+      "city_name": "Austin",
+      "slug": "equipment-financing-austin",
+      "tier": 1,
+      "region": "Central Texas",
+      "county": "Travis",
+      "estimated_population": 979000,
+      "dominant_industry": "Technology & Government"
+    },
+    {
+      "city_name": "Fort Worth",
+      "slug": "equipment-financing-fort-worth",
+      "tier": 1,
+      "region": "North Texas",
+      "county": "Tarrant",
+      "estimated_population": 958000,
+      "dominant_industry": "Aerospace & Manufacturing"
+    },
+    {
+      "city_name": "El Paso",
+      "slug": "equipment-financing-el-paso",
+      "tier": 1,
+      "region": "West Texas",
+      "county": "El Paso",
+      "estimated_population": 681000,
+      "dominant_industry": "Manufacturing & Trade"
+    },
+    {
+      "city_name": "Lubbock",
+      "slug": "equipment-financing-lubbock",
+      "tier": 2,
+      "region": "West Texas",
+      "county": "Lubbock",
+      "estimated_population": 264000,
+      "dominant_industry": "Agriculture & Education"
+    },
+    {
+      "city_name": "Amarillo",
+      "slug": "equipment-financing-amarillo",
+      "tier": 2,
+      "region": "Panhandle",
+      "county": "Potter/Randall",
+      "estimated_population": 200000,
+      "dominant_industry": "Agriculture & Meatpacking"
+    },
+    {
+      "city_name": "Waco",
+      "slug": "equipment-financing-waco",
+      "tier": 2,
+      "region": "Central Texas",
+      "county": "McLennan",
+      "estimated_population": 142000,
+      "dominant_industry": "Manufacturing & Education"
+    },
+    {
+      "city_name": "Midland",
+      "slug": "equipment-financing-midland",
+      "tier": 2,
+      "region": "Permian Basin",
+      "county": "Midland",
+      "estimated_population": 146000,
+      "dominant_industry": "Oil & Gas"
+    },
+    {
+      "city_name": "Odessa",
+      "slug": "equipment-financing-odessa",
+      "tier": 2,
+      "region": "Permian Basin",
+      "county": "Ector",
+      "estimated_population": 123000,
+      "dominant_industry": "Oil & Gas"
+    },
+    {
+      "city_name": "Tyler",
+      "slug": "equipment-financing-tyler",
+      "tier": 2,
+      "region": "East Texas",
+      "county": "Smith",
+      "estimated_population": 107000,
+      "dominant_industry": "Healthcare & Manufacturing"
+    },
+    {
+      "city_name": "Beaumont",
+      "slug": "equipment-financing-beaumont",
+      "tier": 2,
+      "region": "Gulf Coast",
+      "county": "Jefferson",
+      "estimated_population": 115000,
+      "dominant_industry": "Petrochemical & Refining"
+    },
+    {
+      "city_name": "Abilene",
+      "slug": "equipment-financing-abilene",
+      "tier": 2,
+      "region": "West Texas",
+      "county": "Taylor",
+      "estimated_population": 125000,
+      "dominant_industry": "Military & Education"
+    },
+    {
+      "city_name": "McAllen",
+      "slug": "equipment-financing-mcallen",
+      "tier": 2,
+      "region": "Rio Grande Valley",
+      "county": "Hidalgo",
+      "estimated_population": 143000,
+      "dominant_industry": "Trade & Healthcare"
+    },
+    {
+      "city_name": "Laredo",
+      "slug": "equipment-financing-laredo",
+      "tier": 2,
+      "region": "South Texas",
+      "county": "Webb",
+      "estimated_population": 261000,
+      "dominant_industry": "International Trade & Logistics"
+    },
+    {
+      "city_name": "Corpus Christi",
+      "slug": "equipment-financing-corpus-christi",
+      "tier": 2,
+      "region": "Gulf Coast",
+      "county": "Nueces",
+      "estimated_population": 317000,
+      "dominant_industry": "Petrochemical & Port Operations"
+    },
+    {
+      "city_name": "Killeen",
+      "slug": "equipment-financing-killeen",
+      "tier": 2,
+      "region": "Central Texas",
+      "county": "Bell",
+      "estimated_population": 153000,
+      "dominant_industry": "Military (Fort Cavazos)"
+    },
+    {
+      "city_name": "Brownsville",
+      "slug": "equipment-financing-brownsville",
+      "tier": 2,
+      "region": "Rio Grande Valley",
+      "county": "Cameron",
+      "estimated_population": 186000,
+      "dominant_industry": "Trade & Aerospace (SpaceX)"
+    },
+    {
+      "city_name": "Arlington",
+      "slug": "equipment-financing-arlington",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Tarrant",
+      "estimated_population": 394000,
+      "dominant_industry": "Entertainment & Manufacturing"
+    },
+    {
+      "city_name": "Plano",
+      "slug": "equipment-financing-plano",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Collin",
+      "estimated_population": 285000,
+      "dominant_industry": "Technology & Corporate HQs"
+    },
+    {
+      "city_name": "Irving",
+      "slug": "equipment-financing-irving",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Dallas",
+      "estimated_population": 256000,
+      "dominant_industry": "Corporate Services & Logistics"
+    },
+    {
+      "city_name": "Garland",
+      "slug": "equipment-financing-garland",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Dallas",
+      "estimated_population": 239000,
+      "dominant_industry": "Manufacturing & Retail"
+    },
+    {
+      "city_name": "Frisco",
+      "slug": "equipment-financing-frisco",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Collin/Denton",
+      "estimated_population": 220000,
+      "dominant_industry": "Technology & Professional Services"
+    },
+    {
+      "city_name": "McKinney",
+      "slug": "equipment-financing-mckinney",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Collin",
+      "estimated_population": 200000,
+      "dominant_industry": "Technology & Healthcare"
+    },
+    {
+      "city_name": "Grand Prairie",
+      "slug": "equipment-financing-grand-prairie",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Dallas/Tarrant",
+      "estimated_population": 197000,
+      "dominant_industry": "Manufacturing & Distribution"
+    },
+    {
+      "city_name": "Denton",
+      "slug": "equipment-financing-denton",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Denton",
+      "estimated_population": 148000,
+      "dominant_industry": "Education & Technology"
+    },
+    {
+      "city_name": "Mesquite",
+      "slug": "equipment-financing-mesquite",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Dallas",
+      "estimated_population": 150000,
+      "dominant_industry": "Retail & Distribution"
+    },
+    {
+      "city_name": "Carrollton",
+      "slug": "equipment-financing-carrollton",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Dallas/Denton",
+      "estimated_population": 138000,
+      "dominant_industry": "Manufacturing & Technology"
+    },
+    {
+      "city_name": "Round Rock",
+      "slug": "equipment-financing-round-rock",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Williamson",
+      "estimated_population": 136000,
+      "dominant_industry": "Technology (Dell HQ)"
+    },
+    {
+      "city_name": "Lewisville",
+      "slug": "equipment-financing-lewisville",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Denton",
+      "estimated_population": 111000,
+      "dominant_industry": "Distribution & Retail"
+    },
+    {
+      "city_name": "Richardson",
+      "slug": "equipment-financing-richardson",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Dallas/Collin",
+      "estimated_population": 120000,
+      "dominant_industry": "Telecom & Technology"
+    },
+    {
+      "city_name": "Sugar Land",
+      "slug": "equipment-financing-sugar-land",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Fort Bend",
+      "estimated_population": 112000,
+      "dominant_industry": "Energy & Professional Services"
+    },
+    {
+      "city_name": "The Woodlands",
+      "slug": "equipment-financing-the-woodlands",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Montgomery",
+      "estimated_population": 118000,
+      "dominant_industry": "Energy & Corporate HQs"
+    },
+    {
+      "city_name": "League City",
+      "slug": "equipment-financing-league-city",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Galveston",
+      "estimated_population": 115000,
+      "dominant_industry": "Aerospace & Maritime"
+    },
+    {
+      "city_name": "Allen",
+      "slug": "equipment-financing-allen",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Collin",
+      "estimated_population": 105000,
+      "dominant_industry": "Technology & Retail"
+    },
+    {
+      "city_name": "Pearland",
+      "slug": "equipment-financing-pearland",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Brazoria",
+      "estimated_population": 125000,
+      "dominant_industry": "Energy & Healthcare"
+    },
+    {
+      "city_name": "San Marcos",
+      "slug": "equipment-financing-san-marcos",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Hays",
+      "estimated_population": 68000,
+      "dominant_industry": "Education & Manufacturing"
+    },
+    {
+      "city_name": "New Braunfels",
+      "slug": "equipment-financing-new-braunfels",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Comal",
+      "estimated_population": 98000,
+      "dominant_industry": "Tourism & Manufacturing"
+    },
+    {
+      "city_name": "Edinburg",
+      "slug": "equipment-financing-edinburg",
+      "tier": 3,
+      "region": "Rio Grande Valley",
+      "county": "Hidalgo",
+      "estimated_population": 100000,
+      "dominant_industry": "Education & Healthcare"
+    },
+    {
+      "city_name": "Mission",
+      "slug": "equipment-financing-mission",
+      "tier": 3,
+      "region": "Rio Grande Valley",
+      "county": "Hidalgo",
+      "estimated_population": 85000,
+      "dominant_industry": "Agriculture & Trade"
+    },
+    {
+      "city_name": "Pharr",
+      "slug": "equipment-financing-pharr",
+      "tier": 3,
+      "region": "Rio Grande Valley",
+      "county": "Hidalgo",
+      "estimated_population": 80000,
+      "dominant_industry": "International Trade & Logistics"
+    },
+    {
+      "city_name": "Harlingen",
+      "slug": "equipment-financing-harlingen",
+      "tier": 3,
+      "region": "Rio Grande Valley",
+      "county": "Cameron",
+      "estimated_population": 65000,
+      "dominant_industry": "Healthcare & Military"
+    },
+    {
+      "city_name": "San Angelo",
+      "slug": "equipment-financing-san-angelo",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Tom Green",
+      "estimated_population": 101000,
+      "dominant_industry": "Agriculture & Military"
+    },
+    {
+      "city_name": "Longview",
+      "slug": "equipment-financing-longview",
+      "tier": 3,
+      "region": "East Texas",
+      "county": "Gregg",
+      "estimated_population": 82000,
+      "dominant_industry": "Oil & Gas & Manufacturing"
+    },
+    {
+      "city_name": "Texarkana",
+      "slug": "equipment-financing-texarkana",
+      "tier": 3,
+      "region": "East Texas",
+      "county": "Bowie",
+      "estimated_population": 37000,
+      "dominant_industry": "Manufacturing & Logistics"
+    },
+    {
+      "city_name": "Bryan",
+      "slug": "equipment-financing-bryan",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Brazos",
+      "estimated_population": 86000,
+      "dominant_industry": "Education & Agriculture"
+    },
+    {
+      "city_name": "College Station",
+      "slug": "equipment-financing-college-station",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Brazos",
+      "estimated_population": 120000,
+      "dominant_industry": "Education (Texas A&M) & Research"
+    },
+    {
+      "city_name": "Temple",
+      "slug": "equipment-financing-temple",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Bell",
+      "estimated_population": 82000,
+      "dominant_industry": "Healthcare & Manufacturing"
+    },
+    {
+      "city_name": "Flower Mound",
+      "slug": "equipment-financing-flower-mound",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Denton",
+      "estimated_population": 79000,
+      "dominant_industry": "Professional Services"
+    },
+    {
+      "city_name": "North Richland Hills",
+      "slug": "equipment-financing-north-richland-hills",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Tarrant",
+      "estimated_population": 70000,
+      "dominant_industry": "Healthcare & Retail"
+    },
+    {
+      "city_name": "Cedar Park",
+      "slug": "equipment-financing-cedar-park",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Williamson",
+      "estimated_population": 82000,
+      "dominant_industry": "Technology & Retail"
+    },
+    {
+      "city_name": "Pflugerville",
+      "slug": "equipment-financing-pflugerville",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Travis",
+      "estimated_population": 74000,
+      "dominant_industry": "Technology & Manufacturing"
+    },
+    {
+      "city_name": "Georgetown",
+      "slug": "equipment-financing-georgetown",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Williamson",
+      "estimated_population": 75000,
+      "dominant_industry": "Healthcare & Retirement Services"
+    },
+    {
+      "city_name": "Victoria",
+      "slug": "equipment-financing-victoria",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Victoria",
+      "estimated_population": 67000,
+      "dominant_industry": "Petrochemical & Agriculture"
+    },
+    {
+      "city_name": "Conroe",
+      "slug": "equipment-financing-conroe",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Montgomery",
+      "estimated_population": 100000,
+      "dominant_industry": "Energy & Construction"
+    },
+    {
+      "city_name": "Mansfield",
+      "slug": "equipment-financing-mansfield",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Tarrant",
+      "estimated_population": 75000,
+      "dominant_industry": "Manufacturing & Retail"
+    },
+    {
+      "city_name": "Rowlett",
+      "slug": "equipment-financing-rowlett",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Dallas/Rockwall",
+      "estimated_population": 67000,
+      "dominant_industry": "Professional Services"
+    },
+    {
+      "city_name": "Wylie",
+      "slug": "equipment-financing-wylie",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Collin",
+      "estimated_population": 57000,
+      "dominant_industry": "Retail & Professional Services"
+    },
+    {
+      "city_name": "Euless",
+      "slug": "equipment-financing-euless",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Tarrant",
+      "estimated_population": 56000,
+      "dominant_industry": "Aviation & Logistics"
+    },
+    {
+      "city_name": "DeSoto",
+      "slug": "equipment-financing-desoto",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Dallas",
+      "estimated_population": 54000,
+      "dominant_industry": "Distribution & Healthcare"
+    },
+    {
+      "city_name": "Grapevine",
+      "slug": "equipment-financing-grapevine",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Tarrant",
+      "estimated_population": 54000,
+      "dominant_industry": "Tourism & Aviation"
+    },
+    {
+      "city_name": "Galveston",
+      "slug": "equipment-financing-galveston",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Galveston",
+      "estimated_population": 53000,
+      "dominant_industry": "Tourism & Maritime"
+    },
+    {
+      "city_name": "Cedar Hill",
+      "slug": "equipment-financing-cedar-hill",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Dallas/Ellis",
+      "estimated_population": 49000,
+      "dominant_industry": "Retail & Professional Services"
+    },
+    {
+      "city_name": "Texas City",
+      "slug": "equipment-financing-texas-city",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Galveston",
+      "estimated_population": 53000,
+      "dominant_industry": "Petrochemical & Refining"
+    },
+    {
+      "city_name": "Huntsville",
+      "slug": "equipment-financing-huntsville",
+      "tier": 3,
+      "region": "East Texas",
+      "county": "Walker",
+      "estimated_population": 46000,
+      "dominant_industry": "Government & Education"
+    },
+    {
+      "city_name": "Lufkin",
+      "slug": "equipment-financing-lufkin",
+      "tier": 3,
+      "region": "Piney Woods",
+      "county": "Angelina",
+      "estimated_population": 35000,
+      "dominant_industry": "Forestry & Manufacturing"
+    },
+    {
+      "city_name": "Nacogdoches",
+      "slug": "equipment-financing-nacogdoches",
+      "tier": 3,
+      "region": "Piney Woods",
+      "county": "Nacogdoches",
+      "estimated_population": 33000,
+      "dominant_industry": "Education & Forestry"
+    },
+    {
+      "city_name": "Sherman",
+      "slug": "equipment-financing-sherman",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Grayson",
+      "estimated_population": 45000,
+      "dominant_industry": "Manufacturing & Technology"
+    },
+    {
+      "city_name": "Wichita Falls",
+      "slug": "equipment-financing-wichita-falls",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Wichita",
+      "estimated_population": 105000,
+      "dominant_industry": "Military & Manufacturing"
+    },
+    {
+      "city_name": "Del Rio",
+      "slug": "equipment-financing-del-rio",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Val Verde",
+      "estimated_population": 35000,
+      "dominant_industry": "Military & Trade"
+    },
+    {
+      "city_name": "Eagle Pass",
+      "slug": "equipment-financing-eagle-pass",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Maverick",
+      "estimated_population": 29000,
+      "dominant_industry": "International Trade"
+    },
+    {
+      "city_name": "Weslaco",
+      "slug": "equipment-financing-weslaco",
+      "tier": 3,
+      "region": "Rio Grande Valley",
+      "county": "Hidalgo",
+      "estimated_population": 41000,
+      "dominant_industry": "Agriculture & Retail"
+    },
+    {
+      "city_name": "Hurst",
+      "slug": "equipment-financing-hurst",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Tarrant",
+      "estimated_population": 39000,
+      "dominant_industry": "Retail & Healthcare"
+    },
+    {
+      "city_name": "Burleson",
+      "slug": "equipment-financing-burleson",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Johnson/Tarrant",
+      "estimated_population": 49000,
+      "dominant_industry": "Construction & Retail"
+    },
+    {
+      "city_name": "Bedford",
+      "slug": "equipment-financing-bedford",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Tarrant",
+      "estimated_population": 49000,
+      "dominant_industry": "Healthcare & Professional Services"
+    },
+    {
+      "city_name": "Cleburne",
+      "slug": "equipment-financing-cleburne",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Johnson",
+      "estimated_population": 32000,
+      "dominant_industry": "Manufacturing & Agriculture"
+    },
+    {
+      "city_name": "Weatherford",
+      "slug": "equipment-financing-weatherford",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Parker",
+      "estimated_population": 35000,
+      "dominant_industry": "Agriculture & Equine"
+    },
+    {
+      "city_name": "Stephenville",
+      "slug": "equipment-financing-stephenville",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Erath",
+      "estimated_population": 22000,
+      "dominant_industry": "Agriculture & Dairy"
+    },
+    {
+      "city_name": "Mineral Wells",
+      "slug": "equipment-financing-mineral-wells",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Palo Pinto",
+      "estimated_population": 16000,
+      "dominant_industry": "Manufacturing & Tourism"
+    },
+    {
+      "city_name": "Greenville",
+      "slug": "equipment-financing-greenville",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Hunt",
+      "estimated_population": 28000,
+      "dominant_industry": "Manufacturing & Defense"
+    },
+    {
+      "city_name": "Paris",
+      "slug": "equipment-financing-paris",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Lamar",
+      "estimated_population": 25000,
+      "dominant_industry": "Manufacturing & Agriculture"
+    },
+    {
+      "city_name": "Corsicana",
+      "slug": "equipment-financing-corsicana",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Navarro",
+      "estimated_population": 24000,
+      "dominant_industry": "Oil & Gas & Manufacturing"
+    },
+    {
+      "city_name": "Ennis",
+      "slug": "equipment-financing-ennis",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Ellis",
+      "estimated_population": 20000,
+      "dominant_industry": "Manufacturing & Agriculture"
+    },
+    {
+      "city_name": "Waxahachie",
+      "slug": "equipment-financing-waxahachie",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Ellis",
+      "estimated_population": 40000,
+      "dominant_industry": "Manufacturing & Distribution"
+    },
+    {
+      "city_name": "Terrell",
+      "slug": "equipment-financing-terrell",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Kaufman",
+      "estimated_population": 18000,
+      "dominant_industry": "Manufacturing & Agriculture"
+    },
+    {
+      "city_name": "Rockwall",
+      "slug": "equipment-financing-rockwall",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Rockwall",
+      "estimated_population": 47000,
+      "dominant_industry": "Professional Services & Retail"
+    },
+    {
+      "city_name": "Forney",
+      "slug": "equipment-financing-forney",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Kaufman",
+      "estimated_population": 27000,
+      "dominant_industry": "Construction & Retail"
+    },
+    {
+      "city_name": "Midlothian",
+      "slug": "equipment-financing-midlothian",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Ellis",
+      "estimated_population": 35000,
+      "dominant_industry": "Cement Manufacturing"
+    },
+    {
+      "city_name": "Denison",
+      "slug": "equipment-financing-denison",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Grayson",
+      "estimated_population": 25000,
+      "dominant_industry": "Manufacturing & Healthcare"
+    },
+    {
+      "city_name": "Gainesville",
+      "slug": "equipment-financing-gainesville",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Cooke",
+      "estimated_population": 16000,
+      "dominant_industry": "Manufacturing & Agriculture"
+    },
+    {
+      "city_name": "Bonham",
+      "slug": "equipment-financing-bonham",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Fannin",
+      "estimated_population": 10000,
+      "dominant_industry": "Agriculture & Government"
+    },
+    {
+      "city_name": "Mount Pleasant",
+      "slug": "equipment-financing-mount-pleasant",
+      "tier": 3,
+      "region": "East Texas",
+      "county": "Titus",
+      "estimated_population": 16000,
+      "dominant_industry": "Poultry Processing & Manufacturing"
+    },
+    {
+      "city_name": "Marshall",
+      "slug": "equipment-financing-marshall",
+      "tier": 3,
+      "region": "East Texas",
+      "county": "Harrison",
+      "estimated_population": 23000,
+      "dominant_industry": "Manufacturing & Education"
+    },
+    {
+      "city_name": "Jacksonville",
+      "slug": "equipment-financing-jacksonville",
+      "tier": 3,
+      "region": "East Texas",
+      "county": "Cherokee",
+      "estimated_population": 15000,
+      "dominant_industry": "Manufacturing & Agriculture"
+    },
+    {
+      "city_name": "Palestine",
+      "slug": "equipment-financing-palestine",
+      "tier": 3,
+      "region": "East Texas",
+      "county": "Anderson",
+      "estimated_population": 18000,
+      "dominant_industry": "Manufacturing & Tourism"
+    },
+    {
+      "city_name": "Henderson",
+      "slug": "equipment-financing-henderson",
+      "tier": 3,
+      "region": "East Texas",
+      "county": "Rusk",
+      "estimated_population": 13000,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Sulphur Springs",
+      "slug": "equipment-financing-sulphur-springs",
+      "tier": 3,
+      "region": "East Texas",
+      "county": "Hopkins",
+      "estimated_population": 16000,
+      "dominant_industry": "Dairy & Agriculture"
+    },
+    {
+      "city_name": "Jasper",
+      "slug": "equipment-financing-jasper",
+      "tier": 3,
+      "region": "Piney Woods",
+      "county": "Jasper",
+      "estimated_population": 7500,
+      "dominant_industry": "Forestry & Timber"
+    },
+    {
+      "city_name": "Center",
+      "slug": "equipment-financing-center",
+      "tier": 3,
+      "region": "Piney Woods",
+      "county": "Shelby",
+      "estimated_population": 5500,
+      "dominant_industry": "Poultry Processing & Forestry"
+    },
+    {
+      "city_name": "Crockett",
+      "slug": "equipment-financing-crockett",
+      "tier": 3,
+      "region": "East Texas",
+      "county": "Houston",
+      "estimated_population": 6500,
+      "dominant_industry": "Agriculture & Forestry"
+    },
+    {
+      "city_name": "Livingston",
+      "slug": "equipment-financing-livingston",
+      "tier": 3,
+      "region": "Piney Woods",
+      "county": "Polk",
+      "estimated_population": 5200,
+      "dominant_industry": "Timber & Tourism"
+    },
+    {
+      "city_name": "Bay City",
+      "slug": "equipment-financing-bay-city",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Matagorda",
+      "estimated_population": 17000,
+      "dominant_industry": "Agriculture & Energy"
+    },
+    {
+      "city_name": "Port Arthur",
+      "slug": "equipment-financing-port-arthur",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Jefferson",
+      "estimated_population": 55000,
+      "dominant_industry": "Petrochemical & Refining"
+    },
+    {
+      "city_name": "Orange",
+      "slug": "equipment-financing-orange",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Orange",
+      "estimated_population": 19000,
+      "dominant_industry": "Petrochemical & Shipbuilding"
+    },
+    {
+      "city_name": "Port Lavaca",
+      "slug": "equipment-financing-port-lavaca",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Calhoun",
+      "estimated_population": 12000,
+      "dominant_industry": "Petrochemical & Fishing"
+    },
+    {
+      "city_name": "Freeport",
+      "slug": "equipment-financing-freeport",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Brazoria",
+      "estimated_population": 12000,
+      "dominant_industry": "Chemical Manufacturing"
+    },
+    {
+      "city_name": "Angleton",
+      "slug": "equipment-financing-angleton",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Brazoria",
+      "estimated_population": 20000,
+      "dominant_industry": "Agriculture & Petrochemical"
+    },
+    {
+      "city_name": "Lake Jackson",
+      "slug": "equipment-financing-lake-jackson",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Brazoria",
+      "estimated_population": 28000,
+      "dominant_industry": "Chemical Manufacturing (Dow)"
+    },
+    {
+      "city_name": "Pasadena",
+      "slug": "equipment-financing-pasadena",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Harris",
+      "estimated_population": 152000,
+      "dominant_industry": "Petrochemical & Refining"
+    },
+    {
+      "city_name": "Baytown",
+      "slug": "equipment-financing-baytown",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Harris",
+      "estimated_population": 83000,
+      "dominant_industry": "Petrochemical & Refining"
+    },
+    {
+      "city_name": "Missouri City",
+      "slug": "equipment-financing-missouri-city",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Fort Bend",
+      "estimated_population": 74000,
+      "dominant_industry": "Professional Services"
+    },
+    {
+      "city_name": "Rosenberg",
+      "slug": "equipment-financing-rosenberg",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Fort Bend",
+      "estimated_population": 39000,
+      "dominant_industry": "Agriculture & Manufacturing"
+    },
+    {
+      "city_name": "Richmond",
+      "slug": "equipment-financing-richmond",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Fort Bend",
+      "estimated_population": 12000,
+      "dominant_industry": "Agriculture & Government"
+    },
+    {
+      "city_name": "Humble",
+      "slug": "equipment-financing-humble",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Harris",
+      "estimated_population": 16000,
+      "dominant_industry": "Oil & Gas & Retail"
+    },
+    {
+      "city_name": "Katy",
+      "slug": "equipment-financing-katy",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Harris/Fort Bend/Waller",
+      "estimated_population": 21000,
+      "dominant_industry": "Energy & Construction"
+    },
+    {
+      "city_name": "Tomball",
+      "slug": "equipment-financing-tomball",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Harris",
+      "estimated_population": 12000,
+      "dominant_industry": "Oil & Gas Services"
+    },
+    {
+      "city_name": "Deer Park",
+      "slug": "equipment-financing-deer-park",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Harris",
+      "estimated_population": 34000,
+      "dominant_industry": "Petrochemical & Manufacturing"
+    },
+    {
+      "city_name": "La Porte",
+      "slug": "equipment-financing-la-porte",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Harris",
+      "estimated_population": 36000,
+      "dominant_industry": "Petrochemical & Port Operations"
+    },
+    {
+      "city_name": "Friendswood",
+      "slug": "equipment-financing-friendswood",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Galveston/Harris",
+      "estimated_population": 40000,
+      "dominant_industry": "Aerospace & Professional Services"
+    },
+    {
+      "city_name": "Dickinson",
+      "slug": "equipment-financing-dickinson",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Galveston",
+      "estimated_population": 21000,
+      "dominant_industry": "Petrochemical & Healthcare"
+    },
+    {
+      "city_name": "Alvin",
+      "slug": "equipment-financing-alvin",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Brazoria",
+      "estimated_population": 28000,
+      "dominant_industry": "Agriculture & Petrochemical"
+    },
+    {
+      "city_name": "Seguin",
+      "slug": "equipment-financing-seguin",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Guadalupe",
+      "estimated_population": 30000,
+      "dominant_industry": "Manufacturing & Agriculture"
+    },
+    {
+      "city_name": "Lockhart",
+      "slug": "equipment-financing-lockhart",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Caldwell",
+      "estimated_population": 15000,
+      "dominant_industry": "Manufacturing & Food (BBQ Capital)"
+    },
+    {
+      "city_name": "Bastrop",
+      "slug": "equipment-financing-bastrop",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Bastrop",
+      "estimated_population": 10000,
+      "dominant_industry": "Tourism & Technology"
+    },
+    {
+      "city_name": "Marble Falls",
+      "slug": "equipment-financing-marble-falls",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Burnet",
+      "estimated_population": 8000,
+      "dominant_industry": "Tourism & Construction"
+    },
+    {
+      "city_name": "Burnet",
+      "slug": "equipment-financing-burnet",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Burnet",
+      "estimated_population": 7000,
+      "dominant_industry": "Tourism & Agriculture"
+    },
+    {
+      "city_name": "Lampasas",
+      "slug": "equipment-financing-lampasas",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Lampasas",
+      "estimated_population": 7500,
+      "dominant_industry": "Military & Agriculture"
+    },
+    {
+      "city_name": "Copperas Cove",
+      "slug": "equipment-financing-copperas-cove",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Coryell",
+      "estimated_population": 35000,
+      "dominant_industry": "Military (Fort Cavazos)"
+    },
+    {
+      "city_name": "Gatesville",
+      "slug": "equipment-financing-gatesville",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Coryell",
+      "estimated_population": 16000,
+      "dominant_industry": "Government & Agriculture"
+    },
+    {
+      "city_name": "Belton",
+      "slug": "equipment-financing-belton",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Bell",
+      "estimated_population": 24000,
+      "dominant_industry": "Education & Government"
+    },
+    {
+      "city_name": "Taylor",
+      "slug": "equipment-financing-taylor",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Williamson",
+      "estimated_population": 17000,
+      "dominant_industry": "Manufacturing (Samsung Fab)"
+    },
+    {
+      "city_name": "Hutto",
+      "slug": "equipment-financing-hutto",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Williamson",
+      "estimated_population": 40000,
+      "dominant_industry": "Construction & Retail"
+    },
+    {
+      "city_name": "Kyle",
+      "slug": "equipment-financing-kyle",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Hays",
+      "estimated_population": 55000,
+      "dominant_industry": "Retail & Construction"
+    },
+    {
+      "city_name": "Buda",
+      "slug": "equipment-financing-buda",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Hays",
+      "estimated_population": 18000,
+      "dominant_industry": "Construction & Professional Services"
+    },
+    {
+      "city_name": "Dripping Springs",
+      "slug": "equipment-financing-dripping-springs",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Hays",
+      "estimated_population": 5000,
+      "dominant_industry": "Tourism & Wineries"
+    },
+    {
+      "city_name": "Fredericksburg",
+      "slug": "equipment-financing-fredericksburg",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Gillespie",
+      "estimated_population": 11000,
+      "dominant_industry": "Tourism & Wine/Agriculture"
+    },
+    {
+      "city_name": "Kerrville",
+      "slug": "equipment-financing-kerrville",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Kerr",
+      "estimated_population": 24000,
+      "dominant_industry": "Tourism & Healthcare"
+    },
+    {
+      "city_name": "Boerne",
+      "slug": "equipment-financing-boerne",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Kendall",
+      "estimated_population": 20000,
+      "dominant_industry": "Tourism & Professional Services"
+    },
+    {
+      "city_name": "Uvalde",
+      "slug": "equipment-financing-uvalde",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Uvalde",
+      "estimated_population": 16000,
+      "dominant_industry": "Agriculture & Ranching"
+    },
+    {
+      "city_name": "Hondo",
+      "slug": "equipment-financing-hondo",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Medina",
+      "estimated_population": 9500,
+      "dominant_industry": "Agriculture & Military"
+    },
+    {
+      "city_name": "Pearsall",
+      "slug": "equipment-financing-pearsall",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Frio",
+      "estimated_population": 12000,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Crystal City",
+      "slug": "equipment-financing-crystal-city",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Zavala",
+      "estimated_population": 7200,
+      "dominant_industry": "Agriculture (Spinach Capital)"
+    },
+    {
+      "city_name": "Carrizo Springs",
+      "slug": "equipment-financing-carrizo-springs",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Dimmit",
+      "estimated_population": 5700,
+      "dominant_industry": "Oil & Gas (Eagle Ford Shale)"
+    },
+    {
+      "city_name": "Pleasanton",
+      "slug": "equipment-financing-pleasanton",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Atascosa",
+      "estimated_population": 11000,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Floresville",
+      "slug": "equipment-financing-floresville",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Wilson",
+      "estimated_population": 7800,
+      "dominant_industry": "Agriculture & Peanut Farming"
+    },
+    {
+      "city_name": "Gonzales",
+      "slug": "equipment-financing-gonzales",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Gonzales",
+      "estimated_population": 7600,
+      "dominant_industry": "Agriculture & Energy"
+    },
+    {
+      "city_name": "Cuero",
+      "slug": "equipment-financing-cuero",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "DeWitt",
+      "estimated_population": 8000,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Yoakum",
+      "slug": "equipment-financing-yoakum",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Lavaca/DeWitt",
+      "estimated_population": 6000,
+      "dominant_industry": "Leather & Agriculture"
+    },
+    {
+      "city_name": "Edna",
+      "slug": "equipment-financing-edna",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Jackson",
+      "estimated_population": 5700,
+      "dominant_industry": "Agriculture & Energy"
+    },
+    {
+      "city_name": "El Campo",
+      "slug": "equipment-financing-el-campo",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Wharton",
+      "estimated_population": 12000,
+      "dominant_industry": "Agriculture & Rice Farming"
+    },
+    {
+      "city_name": "Wharton",
+      "slug": "equipment-financing-wharton",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Wharton",
+      "estimated_population": 9000,
+      "dominant_industry": "Agriculture & Energy"
+    },
+    {
+      "city_name": "Columbus",
+      "slug": "equipment-financing-columbus",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Colorado",
+      "estimated_population": 3800,
+      "dominant_industry": "Agriculture & Tourism"
+    },
+    {
+      "city_name": "La Grange",
+      "slug": "equipment-financing-la-grange",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Fayette",
+      "estimated_population": 5000,
+      "dominant_industry": "Agriculture & Manufacturing"
+    },
+    {
+      "city_name": "Brenham",
+      "slug": "equipment-financing-brenham",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Washington",
+      "estimated_population": 17000,
+      "dominant_industry": "Food Manufacturing (Blue Bell)"
+    },
+    {
+      "city_name": "Navasota",
+      "slug": "equipment-financing-navasota",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Grimes",
+      "estimated_population": 8000,
+      "dominant_industry": "Agriculture & Manufacturing"
+    },
+    {
+      "city_name": "Madisonville",
+      "slug": "equipment-financing-madisonville",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Madison",
+      "estimated_population": 4800,
+      "dominant_industry": "Agriculture & Ranching"
+    },
+    {
+      "city_name": "Hearne",
+      "slug": "equipment-financing-hearne",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Robertson",
+      "estimated_population": 4600,
+      "dominant_industry": "Agriculture & Railroad"
+    },
+    {
+      "city_name": "Cameron",
+      "slug": "equipment-financing-cameron",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Milam",
+      "estimated_population": 5600,
+      "dominant_industry": "Agriculture & Mining"
+    },
+    {
+      "city_name": "Marlin",
+      "slug": "equipment-financing-marlin",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Falls",
+      "estimated_population": 5700,
+      "dominant_industry": "Agriculture & Healthcare"
+    },
+    {
+      "city_name": "Hillsboro",
+      "slug": "equipment-financing-hillsboro",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Hill",
+      "estimated_population": 8300,
+      "dominant_industry": "Manufacturing & Agriculture"
+    },
+    {
+      "city_name": "Mexia",
+      "slug": "equipment-financing-mexia",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Limestone",
+      "estimated_population": 7500,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Groesbeck",
+      "slug": "equipment-financing-groesbeck",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Limestone",
+      "estimated_population": 4300,
+      "dominant_industry": "Agriculture & Energy"
+    },
+    {
+      "city_name": "Sweetwater",
+      "slug": "equipment-financing-sweetwater",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Nolan",
+      "estimated_population": 10700,
+      "dominant_industry": "Wind Energy & Ranching"
+    },
+    {
+      "city_name": "Snyder",
+      "slug": "equipment-financing-snyder",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Scurry",
+      "estimated_population": 11000,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Big Spring",
+      "slug": "equipment-financing-big-spring",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Howard",
+      "estimated_population": 28000,
+      "dominant_industry": "Oil & Gas & Wind Energy"
+    },
+    {
+      "city_name": "Pecos",
+      "slug": "equipment-financing-pecos",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Reeves",
+      "estimated_population": 13000,
+      "dominant_industry": "Oil & Gas (Permian Basin)"
+    },
+    {
+      "city_name": "Monahans",
+      "slug": "equipment-financing-monahans",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Ward",
+      "estimated_population": 8200,
+      "dominant_industry": "Oil & Gas"
+    },
+    {
+      "city_name": "Fort Stockton",
+      "slug": "equipment-financing-fort-stockton",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Pecos",
+      "estimated_population": 8500,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Alpine",
+      "slug": "equipment-financing-alpine",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Brewster",
+      "estimated_population": 6100,
+      "dominant_industry": "Education & Tourism"
+    },
+    {
+      "city_name": "Marfa",
+      "slug": "equipment-financing-marfa",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Presidio",
+      "estimated_population": 1800,
+      "dominant_industry": "Tourism & Arts"
+    },
+    {
+      "city_name": "Van Horn",
+      "slug": "equipment-financing-van-horn",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Culberson",
+      "estimated_population": 2000,
+      "dominant_industry": "Ranching & Space (Blue Origin)"
+    },
+    {
+      "city_name": "Andrews",
+      "slug": "equipment-financing-andrews",
+      "tier": 3,
+      "region": "Permian Basin",
+      "county": "Andrews",
+      "estimated_population": 18000,
+      "dominant_industry": "Oil & Gas"
+    },
+    {
+      "city_name": "Seminole",
+      "slug": "equipment-financing-seminole",
+      "tier": 3,
+      "region": "Permian Basin",
+      "county": "Gaines",
+      "estimated_population": 7500,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Lamesa",
+      "slug": "equipment-financing-lamesa",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Dawson",
+      "estimated_population": 10000,
+      "dominant_industry": "Cotton & Agriculture"
+    },
+    {
+      "city_name": "Levelland",
+      "slug": "equipment-financing-levelland",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Hockley",
+      "estimated_population": 14000,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Brownfield",
+      "slug": "equipment-financing-brownfield",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Terry",
+      "estimated_population": 9700,
+      "dominant_industry": "Agriculture & Oil"
+    },
+    {
+      "city_name": "Plainview",
+      "slug": "equipment-financing-plainview",
+      "tier": 3,
+      "region": "Panhandle",
+      "county": "Hale",
+      "estimated_population": 20000,
+      "dominant_industry": "Agriculture & Food Processing"
+    },
+    {
+      "city_name": "Hereford",
+      "slug": "equipment-financing-hereford",
+      "tier": 3,
+      "region": "Panhandle",
+      "county": "Deaf Smith",
+      "estimated_population": 15000,
+      "dominant_industry": "Cattle & Meatpacking"
+    },
+    {
+      "city_name": "Pampa",
+      "slug": "equipment-financing-pampa",
+      "tier": 3,
+      "region": "Panhandle",
+      "county": "Gray",
+      "estimated_population": 17000,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Borger",
+      "slug": "equipment-financing-borger",
+      "tier": 3,
+      "region": "Panhandle",
+      "county": "Hutchinson",
+      "estimated_population": 13000,
+      "dominant_industry": "Petrochemical & Refining"
+    },
+    {
+      "city_name": "Dumas",
+      "slug": "equipment-financing-dumas",
+      "tier": 3,
+      "region": "Panhandle",
+      "county": "Moore",
+      "estimated_population": 15000,
+      "dominant_industry": "Agriculture & Natural Gas"
+    },
+    {
+      "city_name": "Perryton",
+      "slug": "equipment-financing-perryton",
+      "tier": 3,
+      "region": "Panhandle",
+      "county": "Ochiltree",
+      "estimated_population": 8800,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Dalhart",
+      "slug": "equipment-financing-dalhart",
+      "tier": 3,
+      "region": "Panhandle",
+      "county": "Dallam/Hartley",
+      "estimated_population": 8400,
+      "dominant_industry": "Cattle Feedlots & Agriculture"
+    },
+    {
+      "city_name": "Canyon",
+      "slug": "equipment-financing-canyon",
+      "tier": 3,
+      "region": "Panhandle",
+      "county": "Randall",
+      "estimated_population": 16000,
+      "dominant_industry": "Education & Agriculture"
+    },
+    {
+      "city_name": "Childress",
+      "slug": "equipment-financing-childress",
+      "tier": 3,
+      "region": "Panhandle",
+      "county": "Childress",
+      "estimated_population": 6200,
+      "dominant_industry": "Agriculture & Ranching"
+    },
+    {
+      "city_name": "Vernon",
+      "slug": "equipment-financing-vernon",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Wilbarger",
+      "estimated_population": 10500,
+      "dominant_industry": "Agriculture & Government"
+    },
+    {
+      "city_name": "Graham",
+      "slug": "equipment-financing-graham",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Young",
+      "estimated_population": 8900,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Breckenridge",
+      "slug": "equipment-financing-breckenridge",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Stephens",
+      "estimated_population": 5700,
+      "dominant_industry": "Oil & Gas & Ranching"
+    },
+    {
+      "city_name": "Brownwood",
+      "slug": "equipment-financing-brownwood",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Brown",
+      "estimated_population": 19000,
+      "dominant_industry": "Manufacturing & Education"
+    },
+    {
+      "city_name": "Brady",
+      "slug": "equipment-financing-brady",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "McCulloch",
+      "estimated_population": 5500,
+      "dominant_industry": "Agriculture & Ranching"
+    },
+    {
+      "city_name": "Mason",
+      "slug": "equipment-financing-mason",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Mason",
+      "estimated_population": 2300,
+      "dominant_industry": "Ranching & Tourism"
+    },
+    {
+      "city_name": "Llano",
+      "slug": "equipment-financing-llano",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Llano",
+      "estimated_population": 3500,
+      "dominant_industry": "Tourism & Granite Mining"
+    },
+    {
+      "city_name": "San Saba",
+      "slug": "equipment-financing-san-saba",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "San Saba",
+      "estimated_population": 3200,
+      "dominant_industry": "Pecan Farming & Agriculture"
+    },
+    {
+      "city_name": "Goldthwaite",
+      "slug": "equipment-financing-goldthwaite",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Mills",
+      "estimated_population": 1900,
+      "dominant_industry": "Agriculture & Ranching"
+    },
+    {
+      "city_name": "Comanche",
+      "slug": "equipment-financing-comanche",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Comanche",
+      "estimated_population": 4300,
+      "dominant_industry": "Dairy & Agriculture"
+    },
+    {
+      "city_name": "Dublin",
+      "slug": "equipment-financing-dublin",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Erath",
+      "estimated_population": 3700,
+      "dominant_industry": "Dairy & Agriculture"
+    },
+    {
+      "city_name": "Alice",
+      "slug": "equipment-financing-alice",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Jim Wells",
+      "estimated_population": 19000,
+      "dominant_industry": "Oil & Gas & Ranching"
+    },
+    {
+      "city_name": "Kingsville",
+      "slug": "equipment-financing-kingsville",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Kleberg",
+      "estimated_population": 26000,
+      "dominant_industry": "Military & Education"
+    },
+    {
+      "city_name": "Beeville",
+      "slug": "equipment-financing-beeville",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Bee",
+      "estimated_population": 13500,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Sinton",
+      "slug": "equipment-financing-sinton",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "San Patricio",
+      "estimated_population": 5600,
+      "dominant_industry": "Agriculture & Petrochemical"
+    },
+    {
+      "city_name": "Robstown",
+      "slug": "equipment-financing-robstown",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Nueces",
+      "estimated_population": 11000,
+      "dominant_industry": "Agriculture & Cotton"
+    },
+    {
+      "city_name": "Portland",
+      "slug": "equipment-financing-portland",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "San Patricio",
+      "estimated_population": 21000,
+      "dominant_industry": "Petrochemical & Manufacturing"
+    },
+    {
+      "city_name": "Aransas Pass",
+      "slug": "equipment-financing-aransas-pass",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "San Patricio/Aransas",
+      "estimated_population": 8500,
+      "dominant_industry": "Fishing & Tourism"
+    },
+    {
+      "city_name": "Rockport",
+      "slug": "equipment-financing-rockport",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Aransas",
+      "estimated_population": 10000,
+      "dominant_industry": "Tourism & Fishing"
+    },
+    {
+      "city_name": "Port Isabel",
+      "slug": "equipment-financing-port-isabel",
+      "tier": 3,
+      "region": "Rio Grande Valley",
+      "county": "Cameron",
+      "estimated_population": 5400,
+      "dominant_industry": "Tourism & Fishing"
+    },
+    {
+      "city_name": "Los Fresnos",
+      "slug": "equipment-financing-los-fresnos",
+      "tier": 3,
+      "region": "Rio Grande Valley",
+      "county": "Cameron",
+      "estimated_population": 7000,
+      "dominant_industry": "Agriculture & Retail"
+    },
+    {
+      "city_name": "San Benito",
+      "slug": "equipment-financing-san-benito",
+      "tier": 3,
+      "region": "Rio Grande Valley",
+      "county": "Cameron",
+      "estimated_population": 24500,
+      "dominant_industry": "Agriculture & Food Processing"
+    },
+    {
+      "city_name": "Mercedes",
+      "slug": "equipment-financing-mercedes",
+      "tier": 3,
+      "region": "Rio Grande Valley",
+      "county": "Hidalgo",
+      "estimated_population": 17000,
+      "dominant_industry": "Agriculture & Food Processing"
+    },
+    {
+      "city_name": "Donna",
+      "slug": "equipment-financing-donna",
+      "tier": 3,
+      "region": "Rio Grande Valley",
+      "county": "Hidalgo",
+      "estimated_population": 17000,
+      "dominant_industry": "Agriculture & Retail"
+    },
+    {
+      "city_name": "La Feria",
+      "slug": "equipment-financing-la-feria",
+      "tier": 3,
+      "region": "Rio Grande Valley",
+      "county": "Cameron",
+      "estimated_population": 8000,
+      "dominant_industry": "Agriculture & Citrus"
+    },
+    {
+      "city_name": "Rio Grande City",
+      "slug": "equipment-financing-rio-grande-city",
+      "tier": 3,
+      "region": "Rio Grande Valley",
+      "county": "Starr",
+      "estimated_population": 15000,
+      "dominant_industry": "Agriculture & Trade"
+    },
+    {
+      "city_name": "Roma",
+      "slug": "equipment-financing-roma",
+      "tier": 3,
+      "region": "Rio Grande Valley",
+      "county": "Starr",
+      "estimated_population": 11000,
+      "dominant_industry": "International Trade"
+    },
+    {
+      "city_name": "Zapata",
+      "slug": "equipment-financing-zapata",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Zapata",
+      "estimated_population": 5000,
+      "dominant_industry": "Oil & Gas & Tourism"
+    },
+    {
+      "city_name": "Hebbronville",
+      "slug": "equipment-financing-hebbronville",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Jim Hogg",
+      "estimated_population": 4700,
+      "dominant_industry": "Oil & Gas & Ranching"
+    },
+    {
+      "city_name": "Falfurrias",
+      "slug": "equipment-financing-falfurrias",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Brooks",
+      "estimated_population": 4900,
+      "dominant_industry": "Ranching & Agriculture"
+    },
+    {
+      "city_name": "George West",
+      "slug": "equipment-financing-george-west",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "Live Oak",
+      "estimated_population": 2500,
+      "dominant_industry": "Oil & Gas & Ranching"
+    },
+    {
+      "city_name": "Cotulla",
+      "slug": "equipment-financing-cotulla",
+      "tier": 3,
+      "region": "South Texas",
+      "county": "La Salle",
+      "estimated_population": 4200,
+      "dominant_industry": "Oil & Gas (Eagle Ford Shale)"
+    },
+    {
+      "city_name": "Refugio",
+      "slug": "equipment-financing-refugio",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Refugio",
+      "estimated_population": 2800,
+      "dominant_industry": "Agriculture & Oil"
+    },
+    {
+      "city_name": "Goliad",
+      "slug": "equipment-financing-goliad",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Goliad",
+      "estimated_population": 2000,
+      "dominant_industry": "Tourism & Agriculture"
+    },
+    {
+      "city_name": "Hallettsville",
+      "slug": "equipment-financing-hallettsville",
+      "tier": 3,
+      "region": "Gulf Coast",
+      "county": "Lavaca",
+      "estimated_population": 2800,
+      "dominant_industry": "Agriculture & Manufacturing"
+    },
+    {
+      "city_name": "Schulenburg",
+      "slug": "equipment-financing-schulenburg",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Fayette",
+      "estimated_population": 2900,
+      "dominant_industry": "Agriculture & Manufacturing"
+    },
+    {
+      "city_name": "Giddings",
+      "slug": "equipment-financing-giddings",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Lee",
+      "estimated_population": 5200,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Smithville",
+      "slug": "equipment-financing-smithville",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Bastrop",
+      "estimated_population": 4100,
+      "dominant_industry": "Tourism & Agriculture"
+    },
+    {
+      "city_name": "Elgin",
+      "slug": "equipment-financing-elgin",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Bastrop",
+      "estimated_population": 10000,
+      "dominant_industry": "Manufacturing & Agriculture (Sausage Capital)"
+    },
+    {
+      "city_name": "Manor",
+      "slug": "equipment-financing-manor",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Travis",
+      "estimated_population": 14000,
+      "dominant_industry": "Construction & Technology"
+    },
+    {
+      "city_name": "Leander",
+      "slug": "equipment-financing-leander",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Williamson/Travis",
+      "estimated_population": 75000,
+      "dominant_industry": "Technology & Retail"
+    },
+    {
+      "city_name": "Liberty Hill",
+      "slug": "equipment-financing-liberty-hill",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Williamson",
+      "estimated_population": 5000,
+      "dominant_industry": "Construction & Agriculture"
+    },
+    {
+      "city_name": "Jarrell",
+      "slug": "equipment-financing-jarrell",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Williamson",
+      "estimated_population": 3000,
+      "dominant_industry": "Construction & Agriculture"
+    },
+    {
+      "city_name": "Salado",
+      "slug": "equipment-financing-salado",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Bell",
+      "estimated_population": 5000,
+      "dominant_industry": "Tourism & Retail"
+    },
+    {
+      "city_name": "Harker Heights",
+      "slug": "equipment-financing-harker-heights",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Bell",
+      "estimated_population": 33000,
+      "dominant_industry": "Military & Retail"
+    },
+    {
+      "city_name": "Granbury",
+      "slug": "equipment-financing-granbury",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Hood",
+      "estimated_population": 11000,
+      "dominant_industry": "Tourism & Nuclear Energy"
+    },
+    {
+      "city_name": "Glen Rose",
+      "slug": "equipment-financing-glen-rose",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Somervell",
+      "estimated_population": 2700,
+      "dominant_industry": "Nuclear Energy & Tourism"
+    },
+    {
+      "city_name": "Decatur",
+      "slug": "equipment-financing-decatur",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Wise",
+      "estimated_population": 7500,
+      "dominant_industry": "Oil & Gas & Agriculture"
+    },
+    {
+      "city_name": "Bridgeport",
+      "slug": "equipment-financing-bridgeport",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Wise",
+      "estimated_population": 6500,
+      "dominant_industry": "Mining & Agriculture"
+    },
+    {
+      "city_name": "Bowie",
+      "slug": "equipment-financing-bowie",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Montague",
+      "estimated_population": 5200,
+      "dominant_industry": "Agriculture & Manufacturing"
+    },
+    {
+      "city_name": "Jacksboro",
+      "slug": "equipment-financing-jacksboro",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Jack",
+      "estimated_population": 4500,
+      "dominant_industry": "Oil & Gas & Ranching"
+    },
+    {
+      "city_name": "Seymour",
+      "slug": "equipment-financing-seymour",
+      "tier": 3,
+      "region": "North Texas",
+      "county": "Baylor",
+      "estimated_population": 2600,
+      "dominant_industry": "Agriculture & Oil"
+    },
+    {
+      "city_name": "Stamford",
+      "slug": "equipment-financing-stamford",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Jones",
+      "estimated_population": 3000,
+      "dominant_industry": "Agriculture & Ranching"
+    },
+    {
+      "city_name": "Haskell",
+      "slug": "equipment-financing-haskell",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Haskell",
+      "estimated_population": 3200,
+      "dominant_industry": "Agriculture & Cotton"
+    },
+    {
+      "city_name": "Coleman",
+      "slug": "equipment-financing-coleman",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Coleman",
+      "estimated_population": 4700,
+      "dominant_industry": "Ranching & Agriculture"
+    },
+    {
+      "city_name": "Ballinger",
+      "slug": "equipment-financing-ballinger",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Runnels",
+      "estimated_population": 3800,
+      "dominant_industry": "Agriculture & Manufacturing"
+    },
+    {
+      "city_name": "Sonora",
+      "slug": "equipment-financing-sonora",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Sutton",
+      "estimated_population": 2800,
+      "dominant_industry": "Ranching & Oil/Gas"
+    },
+    {
+      "city_name": "Ozona",
+      "slug": "equipment-financing-ozona",
+      "tier": 3,
+      "region": "West Texas",
+      "county": "Crockett",
+      "estimated_population": 3200,
+      "dominant_industry": "Ranching & Oil/Gas"
+    },
+    {
+      "city_name": "Junction",
+      "slug": "equipment-financing-junction",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Kimble",
+      "estimated_population": 2600,
+      "dominant_industry": "Ranching & Tourism"
+    },
+    {
+      "city_name": "Bandera",
+      "slug": "equipment-financing-bandera",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Bandera",
+      "estimated_population": 900,
+      "dominant_industry": "Tourism & Ranching (Cowboy Capital)"
+    },
+    {
+      "city_name": "Wimberley",
+      "slug": "equipment-financing-wimberley",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Hays",
+      "estimated_population": 3400,
+      "dominant_industry": "Tourism & Arts"
+    },
+    {
+      "city_name": "Johnson City",
+      "slug": "equipment-financing-johnson-city",
+      "tier": 3,
+      "region": "Central Texas",
+      "county": "Blanco",
+      "estimated_population": 1900,
+      "dominant_industry": "Tourism & Ranching"
+    }
+  ]
+}
